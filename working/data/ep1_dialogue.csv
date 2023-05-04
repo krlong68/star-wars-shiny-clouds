@@ -1,0 +1,952 @@
+doc_id;from;to;text;where;number;nouns;determiners;conjunctions;adjectives;prepositions;pronouns;verbs;adverbs;undefined;time
+1;QUI-GON;CAPTAIN;Captain.;INT. REPUBLIC CRUISER - COCKPIT;1;0;0;0;0;0;0;0;0;0;9
+2;CAPTAIN;QUI-GON;Yes, sir?;INT. REPUBLIC CRUISER - COCKPIT;2;0;0;0;0;0;0;0;0;0;18
+3;QUI-GON;CAPTAIN;Tell them we wish to board at once.;INT. REPUBLIC CRUISER - COCKPIT;8;0;0;0;0;0;0;0;0;0;72
+4;CAPTAIN;QUI-GON;Yes, sir.;INT. REPUBLIC CRUISER - COCKPIT;2;0;0;0;0;0;0;0;0;0;18
+5;CAPTAIN;NUTE;With all due respect the ambassadors for the supreme chancellor wish to board immediately.;INT. REPUBLIC CRUISER - COCKPIT;14;0;0;0;0;0;0;0;0;0;126
+6;NUTE;CAPTAIN;Yes, yes, of course as you know, our blockade is perfectly legal, and we'd be happy to receive the Ambassador. Happy to.;INT. REPUBLIC CRUISER - COCKPIT;22;0;0;0;0;0;0;0;0;0;198
+7;TC-14;QUI-GON;I'm TC-14 at your service. This way, please.;INT. FEDERATION BATTLESHIP - DOCKING BAY - SPACE;8;0;0;0;0;0;0;0;0;0;72
+8;TC-14;QUI-GON;We are greatly honored by your visit, Ambassadors. Make yourselves comfortable. My master will be with you shortly.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;18;0;0;0;0;0;0;0;0;0;162
+9;OBI-WAN;QUI-GON;I have a bad feeling about this.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;7;0;0;0;0;0;0;0;0;0;63
+10;QUI-GON;OBI-WAN;I don't sense anything.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;4;0;0;0;0;0;0;0;0;0;36
+11;OBI-WAN;QUI-GON;It's not about the mission, Master, it's something, elsewhere, elusive.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;10;0;0;0;0;0;0;0;0;0;90
+12;QUI-GON;OBI-WAN;Don't center on your anxiety, Obi-Wan. Keep your concentration here and now where it belongs.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;15;0;0;0;0;0;0;0;0;0;135
+13;OBI-WAN;QUI-GON;Master Yoda says I should be mindful of the future;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;10;0;0;0;0;0;0;0;0;0;90
+14;QUI-GON;OBI-WAN;but not at the expense of the moment. Be mindful of the living Force, my young Padawan.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;17;0;0;0;0;0;0;0;0;0;153
+15;OBI-WAN;QUI-GON;Yes, Master how do you think the trade viceroy will deal with the chancellor's demands?;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;15;0;0;0;0;0;0;0;0;0;135
+16;QUI-GON;OBI-WAN;These Federation types are cowards. The negotiations will be short.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;10;0;0;0;0;0;0;0;0;0;90
+17;NUTE;TC-14;What?!? What did you say?;INT. FEDERATION BATTLESHIP - BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+18;TC-14;NUTE;The Ambassadors are Jedi Knights, I believe.;INT. FEDERATION BATTLESHIP - BRIDGE;7;0;0;0;0;0;0;0;0;0;63
+19;DOFINE;NUTE;I knew it! They were sent to force a settlement, eh.;INT. FEDERATION BATTLESHIP - BRIDGE;11;0;0;0;0;0;0;0;0;0;99
+20;NUTE;DOFINE;Distract them. I will contact Lord Sidious.;INT. FEDERATION BATTLESHIP - BRIDGE;7;0;0;0;0;0;0;0;0;0;63
+21;DOFINE;NUTE;Are you brain-dead? I'm not going in there with two Jedi .Send a droid.;INT. FEDERATION BATTLESHIP - BRIDGE;14;0;0;0;0;0;0;0;0;0;126
+22;OBI-WAN;QUI-GON;Is it in their nature to make us wait this long?;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;11;0;0;0;0;0;0;0;0;0;99
+23;QUI-GON;OBI-WAN;No. I sense an unusual amount of fear for something as trivial as this trade dispute.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;16;0;0;0;0;0;0;0;0;0;144
+24;DARTH SIDIOUS;NUTE;What is it?;INT. FEDERATION BATTLESHIP - BRIDGE;3;0;0;0;0;0;0;0;0;0;27
+25;DOFINE;DARTH SIDIOUS;This scheme of yours has failed, Lord Sidious. The blockade is finished. We dare not go against these Jedi.;INT. FEDERATION BATTLESHIP - BRIDGE;19;0;0;0;0;0;0;0;0;0;171
+26;DARTH SIDIOUS;NUTE;Viceroy, I don't want this stunted slime in my sight again. This turn of events is unfortunate. We must accelerate our plans. Begin landing your troops.;INT. FEDERATION BATTLESHIP - BRIDGE;26;0;0;0;0;0;0;0;0;0;234
+27;NUTE;DARTH SIDIOUS;My lord, is that legal?;INT. FEDERATION BATTLESHIP - BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+28;DARTH SIDIOUS;NUTE;I will make it legal.;INT. FEDERATION BATTLESHIP - BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+29;NUTE;DARTH SIDIOUS;And the Jedi?;INT. FEDERATION BATTLESHIP - BRIDGE;3;0;0;0;0;0;0;0;0;0;27
+30;DARTH SIDIOUS;NUTE;The chancellor should never have brought them into this. Kill them immediately.;INT. FEDERATION BATTLESHIP - BRIDGE;12;0;0;0;0;0;0;0;0;0;108
+31;NUTE;DARTH SIDIOUS;Yes, my lord. As you wish.;INT. FEDERATION BATTLESHIP - BRIDGE;6;0;0;0;0;0;0;0;0;0;54
+32;PILOT;CAPTAIN;Captain, look!;INT. REPUBLIC CRUISER - COCKPIT;2;0;0;0;0;0;0;0;0;0;18
+33;CAPTAIN;QUI-GON;Shields up!;INT. REPUBLIC CRUISER - COCKPIT;2;0;0;0;0;0;0;0;0;0;18
+34;TC-14;QUI-GON;Sorry.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;1;0;0;0;0;0;0;0;0;0;9
+35;QUI-GON;OBI-WAN;Dioxis.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;1;0;0;0;0;0;0;0;0;0;9
+36;NUTE;OWO-1;They must be dead by now. Blast, what's left of them.;INT. FEDERATION BATTLESHIP - HALLWAY;11;0;0;0;0;0;0;0;0;0;99
+37;TC-14;DROIDS;Oh, excuse me, so sorry.;INT. FEDERATION BATTLESHIP - HALLWAY;5;0;0;0;0;0;0;0;0;0;45
+38;OWO-1;CORPORAL;Check it out, Corporal. We'll cover you.;INT. FEDERATION BATTLESHIP - HALLWAY;7;0;0;0;0;0;0;0;0;0;63
+39;CORPORAL;OWO-1;Roger, roger.;INT. FEDERATION BATTLESHIP - HALLWAY;2;0;0;0;0;0;0;0;0;0;18
+40;OWO-1;CORPORAL;Blast them.;INT. FEDERATION BATTLESHIP - HALLWAY;2;0;0;0;0;0;0;0;0;0;18
+41;NUTE;TEY HOW;What in blazes is going on down there?;INT. FEDERATION BATTLESHIP - BRIDGE;8;0;0;0;0;0;0;0;0;0;72
+42;TEY HOW;NUTE;We lost the transmission, sir.;INT. FEDERATION BATTLESHIP - BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+43;RUNE;NUTE;Have you ever encountered a Jedi Knight before, sir?;INT. FEDERATION BATTLESHIP - BRIDGE;9;0;0;0;0;0;0;0;0;0;81
+44;NUTE;RUNE;Well, not exactly, but I don't seal off the bridge.;INT. FEDERATION BATTLESHIP - BRIDGE;10;0;0;0;0;0;0;0;0;0;90
+45;RUNE;NUTE;That won't be enough, sir.;INT. FEDERATION BATTLESHIP - BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+46;NUTE;RUNE;I want destroyer droids up here at once!;INT. FEDERATION BATTLESHIP - BRIDGE;8;0;0;0;0;0;0;0;0;0;72
+47;RUNE;NUTE;We will not survive this.;INT. FEDERATION BATTLESHIP - BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+48;NUTE;TEY HOW;Close the blast doors!;INT. FEDERATION BATTLESHIP - BRIDGE;4;0;0;0;0;0;0;0;0;0;36
+49;NUTE;TEY HOW;That will hold them.;INT. FEDERATION BATTLESHIP - BRIDGE;4;0;0;0;0;0;0;0;0;0;36
+50;RUNE;NUTE;They're still coming through!;INT. FEDERATION BATTLESHIP - BRIDGE;4;0;0;0;0;0;0;0;0;0;36
+51;NUTE;RUNE;Impossible! This is impossible!;INT. FEDERATION BATTLESHIP - BRIDGE;4;0;0;0;0;0;0;0;0;0;36
+52;RUNE;NUTE;Where are those destroyer droids?!;INT. FEDERATION BATTLESHIP - BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+53;OBI-WAN;QUI-GON;Master! Destroyers!;INT. FEDERATION BATTLESHIP - HALLWAY - OUTSIDE BRIDGE;2;0;0;0;0;0;0;0;0;0;18
+54;OBI-WAN;QUI-GON;They have shield generators!;INT. FEDERATION BATTLESHIP - HALLWAY - OUTSIDE BRIDGE;4;0;0;0;0;0;0;0;0;0;36
+55;QUI-GON;OBI-WAN;It's a standoff. Let's go.;INT. FEDERATION BATTLESHIP - HALLWAY - OUTSIDE BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+56;RUNE;NUTE;They're no match for destroyer droids.;INT. FEDERATION BATTLESHIP - BRIDGE;6;0;0;0;0;0;0;0;0;0;54
+57;TEY HOW;NUTE;Sir, they've gone up the ventilation shaft.;INT. FEDERATION BATTLESHIP - BRIDGE;7;0;0;0;0;0;0;0;0;0;63
+58;QUI-GON;OBI-WAN;Battle droids.;INT. FEDERATION BATTLESHIP - MAIN BAY;2;0;0;0;0;0;0;0;0;0;18
+59;OBI-WAN;QUI-GON;It's an invasion army.;INT. FEDERATION BATTLESHIP - MAIN BAY;4;0;0;0;0;0;0;0;0;0;36
+60;QUI-GON;OBI-WAN;It's an odd play for the Trade Federation. We've got to warn the Naboo and contact Chancellor Valorum. Let's split up. Stow aboard separate ships and meet down on the planet.;INT. FEDERATION BATTLESHIP - MAIN BAY;31;0;0;0;0;0;0;0;0;0;279
+61;OBI-WAN;QUI-GON;You were right about one thing, Master. The negotiations were short.;INT. FEDERATION BATTLESHIP - MAIN BAY;11;0;0;0;0;0;0;0;0;0;99
+62;TEY HOW;NUTE;Sir, a transmission from the planet.;INT. FEDERATION BATTLESHIP - BRIDGE;6;0;0;0;0;0;0;0;0;0;54
+63;RUNE;NUTE;It's Queen Amidala herself.;INT. FEDERATION BATTLESHIP - BRIDGE;4;0;0;0;0;0;0;0;0;0;36
+64;NUTE;RUNE;At last we're getting results.;INT. FEDERATION BATTLESHIP - BRIDGE;5;0;0;0;0;0;0;0;0;0;45
+65;NUTE;NUTE;Again you come before me, Your highness.;INT. FEDERATION BATTLESHIP - BRIDGE;7;0;0;0;0;0;0;0;0;0;63
+66;AMIDALA;NUTE;You will not be pleased when you hear what I have to say, Viceroy Your trade boycott of our planet has ended.;INT. FEDERATION BATTLESHIP - BRIDGE;22;0;0;0;0;0;0;0;0;0;198
+67;NUTE;AMIDALA;I was not aware of such a failure.;INT. FEDERATION BATTLESHIP - BRIDGE;8;0;0;0;0;0;0;0;0;0;72
+68;AMIDALA;NUTE;I have word that the chancellor's ambassadors are with you now and that you have been commanded to reach settlement.;INT. FEDERATION BATTLESHIP - BRIDGE;20;0;0;0;0;0;0;0;0;0;180
+69;NUTE;AMIDALA;I know nothing of any ambassadors. You must be mistaken.;INT. FEDERATION BATTLESHIP - BRIDGE;10;0;0;0;0;0;0;0;0;0;90
+70;AMIDALA;NUTE;Beware, Viceroy the Federation is going too far this time.;INT. FEDERATION BATTLESHIP - BRIDGE;10;0;0;0;0;0;0;0;0;0;90
+71;NUTE;AMIDALA;We would never do anything without the approval of the senate. You assume too much.;INT. FEDERATION BATTLESHIP - BRIDGE;15;0;0;0;0;0;0;0;0;0;135
+72;AMIDALA;NUTE;We will see.;INT. FEDERATION BATTLESHIP - BRIDGE;3;0;0;0;0;0;0;0;0;0;27
+73;RUNE;NUTE;She's right, the Senate will never;INT. FEDERATION BATTLESHIP - BRIDGE;6;0;0;0;0;0;0;0;0;0;54
+74;NUTE;RUNE;It's too late now.;INT. FEDERATION BATTLESHIP - BRIDGE;4;0;0;0;0;0;0;0;0;0;36
+75;RUNE;NUTE;Do you think she suspects an attack?;INT. FEDERATION BATTLESHIP - BRIDGE;7;0;0;0;0;0;0;0;0;0;63
+76;NUTE;NUTE;I don't know, but we must move quickly to disrupt all communications down there.;INT. FEDERATION BATTLESHIP - BRIDGE;14;0;0;0;0;0;0;0;0;0;126
+77;PALPATINE;AMIDALA;Negotiations haven't started because the ambassadors aren't there? How could that be true? I have assurances from the chancellor his ambassadors did arrive. It must handiwork negotiate ambassadors;INT. NABOO PALACE - THRONE ROOM;28;0;0;0;0;0;0;0;0;0;252
+78;AMIDALA;PALPATINE;Senator Palpatine?!? What's happening?;INT. NABOO PALACE - THRONE ROOM;4;0;0;0;0;0;0;0;0;0;36
+79;CAPT. PANAKA;CONTROLLER;Check the transmission generators;INT. NABOO PALACE - THRONE ROOM;4;0;0;0;0;0;0;0;0;0;36
+80;BIBBLE;AMIDALA;A malfunction?;INT. NABOO PALACE - THRONE ROOM;9;0;0;0;0;0;0;0;0;0;81
+81;CAPT. PANAKA;AMIDALA;It could be the Federation jamming us. Your Highness.;INT. NABOO PALACE - THRONE ROOM;9;0;0;0;0;0;0;0;0;0;81
+82;BIBBLE;AMIDALA;A communications disruption can only mean one thing. Invasion.;INT. NABOO PALACE - THRONE ROOM;9;0;0;0;0;0;0;0;0;0;81
+83;AMIDALA;BIBBLE;The Federation would not dare go that far.;INT. NABOO PALACE - THRONE ROOM;8;0;0;0;0;0;0;0;0;0;72
+84;CAPT. PANAKA;AMIDALA;The Senate would revoke their trade franchise, and they'd be finished.;INT. NABOO PALACE - THRONE ROOM;11;0;0;0;0;0;0;0;0;0;99
+85;AMIDALA;BIBBLE;We must continue to rely on negotiation.;INT. NABOO PALACE - THRONE ROOM;7;0;0;0;0;0;0;0;0;0;63
+86;BIBBLE;AMIDALA;Negotiation? We've lost all communications! and where are the Chancellors Ambassadors?;INT. NABOO PALACE - THRONE ROOM;11;0;0;0;0;0;0;0;0;0;99
+87;CAPT. PANAKA;AMIDALA;This is a dangerous situation, Your Highness. Our security volunteers will be no match against a battle-hardened Federation army.;INT. NABOO PALACE - THRONE ROOM;19;0;0;0;0;0;0;0;0;0;171
+88;AMIDALA;CAPT. PANAKA;I will not condone a course of action that will lead us to war.;INT. NABOO PALACE - THRONE ROOM;14;0;0;0;0;0;0;0;0;0;126
+89;OOM-9;NUTE;Yes, Viceroy ?;EXT. NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT (FX);3;0;0;0;0;0;0;0;0;0;27
+90;RUNE;OOM-9;Captain, we've searched the ship and there is no trace of the Jedi. They may have gotten on one of your landing craft.;EXT. NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT (FX);23;0;0;0;0;0;0;0;0;0;207
+91;OOM-9;NUTE;If they are down here, sir, we'll find them.;EXT. NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT (FX);9;0;0;0;0;0;0;0;0;0;81
+92;NUTE;OOM-9;Use caution. These Jedi are not to be underestimated.;EXT. NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT (FX);9;0;0;0;0;0;0;0;0;0;81
+93;JAR JAR;QUI-GON;Use caution. These Jedi are not to be underestimated.;EXT. NABOO SWAMP - TWILIGHT;2;0;0;0;0;0;0;0;0;0;18
+94;QUI-GON;JAR JAR;Get away! Get out of here! Get down!;EXT. NABOO SWAMP - TWILIGHT;8;0;0;0;0;0;0;0;0;0;72
+95;JAR JAR;QUI-GON;Was'n dat? Hey, wait! Oh, mooie-mooie, I love you.;EXT. NABOO SWAMP - TWILIGHT;9;0;0;0;0;0;0;0;0;0;81
+96;QUI-GON;JAR JAR;Are you brainless? You almost got us killed!;EXT. NABOO SWAMP - TWILIGHT;8;0;0;0;0;0;0;0;0;0;72
+97;JAR JAR;QUI-GON;I spake.;EXT. NABOO SWAMP - TWILIGHT;2;0;0;0;0;0;0;0;0;0;18
+98;QUI-GON;JAR JAR;The ability to speak does not make you intelligent. Now get outta here!;EXT. NABOO SWAMP - TWILIGHT;13;0;0;0;0;0;0;0;0;0;117
+99;JAR JAR;QUI-GON;No no! Mesa stay Mesa yous humble servant.;EXT. NABOO SWAMP - TWILIGHT;8;0;0;0;0;0;0;0;0;0;72
+100;QUI-GON;JAR JAR;That wont be necessary.;EXT. NABOO SWAMP - TWILIGHT;4;0;0;0;0;0;0;0;0;0;36
+101;JAR JAR;QUI-GON;Oh boot tis! Tis demunded byda guds. Tis a live debett, tis. Mesa culled Jaja Binkss.;EXT. NABOO SWAMP - TWILIGHT;16;0;0;0;0;0;0;0;0;0;144
+102;QUI-GON;JAR JAR;Stay down!;EXT. NABOO SWAMP - TWILIGHT;2;0;0;0;0;0;0;0;0;0;18
+103;OBI-WAN;QUI-GON;What's this?;EXT. NABOO SWAMP - TWILIGHT;2;0;0;0;0;0;0;0;0;0;18
+104;QUI-GON;OBI-WAN;A local. Let's get out of here before more droids show up.;EXT. NABOO SWAMP - TWILIGHT;12;0;0;0;0;0;0;0;0;0;108
+105;JAR JAR;QUI-GON;More? More did you spake? Ex-squeeze-me, but de mostest safest place would be Gunga City.;EXT. NABOO SWAMP - TWILIGHT;15;0;0;0;0;0;0;0;0;0;135
+106;QUI-GON;JAR JAR;A city! Can you take us there?;EXT. NABOO SWAMP - TWILIGHT;7;0;0;0;0;0;0;0;0;0;63
+107;JAR JAR;QUI-GON;Ahhh, will on second taut no, not willy.;EXT. NABOO SWAMP - TWILIGHT;8;0;0;0;0;0;0;0;0;0;72
+108;QUI-GON;JAR JAR;No?!;EXT. NABOO SWAMP - TWILIGHT;1;0;0;0;0;0;0;0;0;0;9
+109;JAR JAR;QUI-GON;Iss embarrissing, boot My afrai my've bean banished. My forgoten der Bosses would do terrible tings to my. Terrible tings if my goen back dare.;EXT. NABOO SWAMP - TWILIGHT;25;0;0;0;0;0;0;0;0;0;225
+110;QUI-GON;JAR JAR;You hear that? That's the sound of a thousand terrible things heading this way;EXT. NABOO SWAMP - TWILIGHT;14;0;0;0;0;0;0;0;0;0;126
+111;OBI-WAN;JAR JAR;When they find us, they will crush us, grind us into little pieces, then blast us into oblivion!;EXT. NABOO SWAMP - TWILIGHT;18;0;0;0;0;0;0;0;0;0;162
+112;JAR JAR;QUI-GON;Oh! Yousa point is well seen. Dis way! Hurry!;EXT. NABOO SWAMP - TWILIGHT;9;0;0;0;0;0;0;0;0;0;81
+113;QUI-GON;JAR JAR;Much farther?;EXT. NABOO SWAMP LAKE - TWILIGHT;2;0;0;0;0;0;0;0;0;0;18
+114;JAR JAR;QUI-GON;Wesa goen underwater, okeyday? My warning yous. Gungans no liken outlaunders. Don't expict a wern welcome.;EXT. NABOO SWAMP LAKE - TWILIGHT;16;0;0;0;0;0;0;0;0;0;144
+115;OBI-WAN;JAR JAR;Don't worry, this has not been our day for warm welcomes.;EXT. NABOO SWAMP LAKE - TWILIGHT;11;0;0;0;0;0;0;0;0;0;99
+116;JAR JAR;QUI-GON;Yousa follow me now, okeyday?;EXT. NABOO SWAMP LAKE - TWILIGHT;5;0;0;0;0;0;0;0;0;0;45
+117;CAPT. TARPALS;JAR JAR;Hey, yousa. Stopa dare.;INT. OTOH GUNGA - CITY SQUARE;4;0;0;0;0;0;0;0;0;0;36
+118;JAR JAR;CAPT. TARPALS;Heyo-dales, Cap'n Tarpals. Mesa back.;INT. OTOH GUNGA - CITY SQUARE;5;0;0;0;0;0;0;0;0;0;45
+119;CAPT. TARPALS;JAR JAR;Noah gain, Jar Jar. Yousa goen tada Bosses. Yousa in big dudu this time.;INT. OTOH GUNGA - CITY SQUARE;14;0;0;0;0;0;0;0;0;0;126
+120;JAR JAR;CAPT. TARPALS;How wude.;INT. OTOH GUNGA - CITY SQUARE;2;0;0;0;0;0;0;0;0;0;18
+121;BOSS NASS;QUI-GON;Yousa cannot bees hair. Dis army of mackineeks up dare tis new weesong!;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;13;0;0;0;0;0;0;0;0;0;117
+122;QUI-GON;BOSS NASS;That droid army is about to attack the Naboo. We must warn them.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;13;0;0;0;0;0;0;0;0;0;117
+123;BOSS NASS;QUI-GON;Wesa no like da Naboo! Un dey no like uss-ens. Da Naboo tink day so smarty den us-ens. Day tink day brains so big.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;24;0;0;0;0;0;0;0;0;0;216
+124;OBI-WAN;BOSS NASS;After those droids take control of the surface, they will come here and take control of you.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;17;0;0;0;0;0;0;0;0;0;153
+125;BOSS NASS;OBI-WAN;No, mesa no tink so. Mesa scant talkie witda Naboo, and no nutten talkie it outlaunders. Dos mackineeks no comen here! Dey not know of uss-en.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;26;0;0;0;0;0;0;0;0;0;234
+126;OBI-WAN;BOSS NASS;You and the Naboo form a symbiont circle. What happens to one of you will affect the other. You must understand this.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;22;0;0;0;0;0;0;0;0;0;198
+127;BOSS NASS;OBI-WAN;Wesa wish no nutten in yousa tings, outlaunder, and wesa no care-n about da Naboo.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;15;0;0;0;0;0;0;0;0;0;135
+128;QUI-GON;BOSS NASS;Then speed us on our way.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;6;0;0;0;0;0;0;0;0;0;54
+129;BOSS NASS;QUI-GON;Wesa gonna speed yousaway.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;4;0;0;0;0;0;0;0;0;0;36
+130;QUI-GON;BOSS NASS;We need a transport.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;4;0;0;0;0;0;0;0;0;0;36
+131;BOSS NASS;QUI-GON;Wesa give yousa una bongo. Da speedest way tooda Naboo tis goen through da core. Now go.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;17;0;0;0;0;0;0;0;0;0;153
+132;QUI-GON;BOSS NASS;Thank you for your help. We go in peace.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;9;0;0;0;0;0;0;0;0;0;81
+133;OBI-WAN;QUI-GON;Master, whats a bongo?;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;4;0;0;0;0;0;0;0;0;0;36
+134;QUI-GON;OBI-WAN;A transport, I hope.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;4;0;0;0;0;0;0;0;0;0;36
+135;JAR JAR;QUI-GON;Daza setten yous up. Goen through da planet core is bad bombin!;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;12;0;0;0;0;0;0;0;0;0;108
+136;OBI-WAN;QUI-GON;We are short of time, Master.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;6;0;0;0;0;0;0;0;0;0;54
+137;QUI-GON;OBI-WAN;We'll need a navigator to get us through the planet's core. This Gungan my be of help.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;17;0;0;0;0;0;0;0;0;0;153
+138;QUI-GON;BOSS NASS;What is to become of Jar Jar Binks here?;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;9;0;0;0;0;0;0;0;0;0;81
+139;BOSS NASS;QUI-GON;Binkss brokeen the nocombackie law. Hisen to be pune-ished.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;9;0;0;0;0;0;0;0;0;0;81
+140;QUI-GON;BOSS NASS;I saved his life. He owes me what you call a life-debt. Your gods demand that his life belongs to me now.;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;23;0;0;0;0;0;0;0;0;0;207
+141;BOSS NASS;JAR JAR;Binks. Yousa havena liveplay with thisen hisen?;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;7;0;0;0;0;0;0;0;0;0;63
+142;BOSS NASS;QUI-GON;Begone wit him!;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;3;0;0;0;0;0;0;0;0;0;27
+143;JAR JAR;QUI-GON;Count me outta dis one. Better dead here than dead in da core. Yee gods! What mesa sayin?;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;18;0;0;0;0;0;0;0;0;0;162
+144;JAR JAR;OBI-WAN;Dis is nutsen. Oh, gooberfish!;INT. SUB COCKPIT - UNDERWATER;5;0;0;0;0;0;0;0;0;0;45
+145;OBI-WAN;JAR JAR;Why were you banished, Jar Jar?;INT. SUB COCKPIT - UNDERWATER;6;0;0;0;0;0;0;0;0;0;54
+146;JAR JAR;OBI-WAN;Tis a long tale, buta small part wawdabe mesa ooooh aaaa clumsy.;INT. SUB COCKPIT - UNDERWATER;12;0;0;0;0;0;0;0;0;0;108
+147;OBI-WAN;JAR JAR;They banished you because you're clumsy?;INT. SUB COCKPIT - UNDERWATER;6;0;0;0;0;0;0;0;0;0;54
+148;JAR JAR;OBI-WAN;Mesa cause-ed mabee one or duey lettal bitty axadentes yud-say boom da gasser, un crash Der Bosses heyblibber den banished.;INT. SUB COCKPIT - UNDERWATER;20;0;0;0;0;0;0;0;0;0;180
+149;QUI-GON;OBI-WAN;There's always a bigger fish.;INT. SUB COCKPIT - UNDERWATER;5;0;0;0;0;0;0;0;0;0;45
+150;JAR JAR;OBI-WAN;Mesa tink we goen back now.;INT. SUB COCKPIT - UNDERWATER;6;0;0;0;0;0;0;0;0;0;54
+151;NUTE;DARTH SIDIOUS;The invasion is on schedule, My Lord.;INT. FEDERATION BATTLESHIP - BRIDGE;7;0;0;0;0;0;0;0;0;0;63
+152;DARTH SIDIOUS;NUTE;I have the Senate bogged down in procedures. By the time this incident comes up for a vote, they will have no choice but to accept your control of the system.;INT. FEDERATION BATTLESHIP - BRIDGE;31;0;0;0;0;0;0;0;0;0;279
+153;NUTE;DARTH SIDIOUS;The Queen has great faith the Senate will side with her.;INT. FEDERATION BATTLESHIP - BRIDGE;11;0;0;0;0;0;0;0;0;0;99
+154;DARTH SIDIOUS;NUTE;Queen Amidala is young and naive. You will find controlling her will not be difficult.;INT. FEDERATION BATTLESHIP - BRIDGE;15;0;0;0;0;0;0;0;0;0;135
+155;NUTE;DARTH SIDIOUS;Thank you, My Lord.;INT. FEDERATION BATTLESHIP - BRIDGE;4;0;0;0;0;0;0;0;0;0;36
+156;RUNE;NUTE;You didn't tell him about the missing Jedi?;INT. FEDERATION BATTLESHIP - BRIDGE;8;0;0;0;0;0;0;0;0;0;72
+157;NUTE;RUNE;No need to report that to him, until we have something to report.;INT. FEDERATION BATTLESHIP - BRIDGE;13;0;0;0;0;0;0;0;0;0;117
+158;JAR JAR;QUI-GON;Where wesa goin?;INT. SUB COCKPIT - UNDERWATER;3;0;0;0;0;0;0;0;0;0;27
+159;QUI-GON;JAR JAR;Don't worry. The Force will guide us.;INT. SUB COCKPIT - UNDERWATER;7;0;0;0;0;0;0;0;0;0;63
+160;JAR JAR;QUI-GON;Oh, maxi big, da Force. Well, dat smells stinkowiff.;INT. SUB COCKPIT - UNDERWATER;9;0;0;0;0;0;0;0;0;0;81
+161;OBI-WAN;QUI-GON;we're losing power.;INT. SUB COCKPIT - UNDERWATER;3;0;0;0;0;0;0;0;0;0;27
+162;JAR JAR;QUI-GON;Oh no! Wesa dyin' here.;INT. SUB COCKPIT - UNDERWATER;5;0;0;0;0;0;0;0;0;0;45
+163;QUI-GON;JAR JAR;Just relax. We're not in trouble yet.;INT. SUB COCKPIT - UNDERWATER;7;0;0;0;0;0;0;0;0;0;63
+164;JAR JAR;QUI-GON;What yet? Monstairs out dare! Leak'n in here, all'n sink'n, and nooooo power! You nutsen! WHEN YOUSA TINK WESA IN TROUBLE?!?;INT. SUB COCKPIT - UNDERWATER;21;0;0;0;0;0;0;0;0;0;189
+165;OBI-WAN;QUI-GON;Power's back.;INT. SUB COCKPIT - UNDERWATER;2;0;0;0;0;0;0;0;0;0;18
+166;JAR JAR;OBI-WAN;Monstairs back!;INT. SUB COCKPIT - UNDERWATER;2;0;0;0;0;0;0;0;0;0;18
+167;QUI-GON;JAR JAR;Relax.;INT. SUB COCKPIT - UNDERWATER;1;0;0;0;0;0;0;0;0;0;9
+168;OBI-WAN;QUI-GON;You overdid it.;INT. SUB COCKPIT - UNDERWATER;3;0;0;0;0;0;0;0;0;0;27
+169;QUI-GON;OBI-WAN;Head for that outcropping.;INT. SUB COCKPIT - UNDERWATER;4;0;0;0;0;0;0;0;0;0;36
+170;JAR JAR;QUI-GON;Wesa dead yet? Oie Boie!;INT. SUB COCKPIT - UNDERWATER;5;0;0;0;0;0;0;0;0;0;45
+171;OOM-9;NUTE;Viceroy, we have captured the queen.;EXT. THEED PLAZA - DAY;6;0;0;0;0;0;0;0;0;0;54
+172;NUTE;RUNE;Ah, victory!;EXT. THEED PLAZA - DAY;2;0;0;0;0;0;0;0;0;0;18
+173;JAR JAR;OBI-WAN;Wesa dude it!;INT. NABOO LAKE - UNDERWATER - SUB (FX);3;0;0;0;0;0;0;0;0;0;27
+174;BIBBLE;NUTE;how will you explain this invasion to the Senate?;INT. THEED - PALACE THRONE ROOM - DAY;9;0;0;0;0;0;0;0;0;0;81
+175;NUTE;BIBBLE;The Naboo and the Federation will forge a treaty that will legitimize our occupation here. I've been assured it will be ratified by the Senate.;INT. THEED - PALACE THRONE ROOM - DAY;25;0;0;0;0;0;0;0;0;0;225
+176;AMIDALA;NUTE;I will not co-operate.;INT. THEED - PALACE THRONE ROOM - DAY;4;0;0;0;0;0;0;0;0;0;36
+177;NUTE;AMIDALA;Now, now, your Highness. You are not going to like what we have in store for your people. In time, their suffering will persuade you to see our point of view. Commander. Process them.;INT. THEED - PALACE THRONE ROOM - DAY;34;0;0;0;0;0;0;0;0;0;306
+178;OOM-9;OOM-CAPTAIN;Yes, sir! Take them to Camp Four.;INT. THEED - PALACE THRONE ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+179;QUI-GON;AMIDALA;We should leave the street, Your Highness.;EXT. PALACE - PLAZA - DAY;7;0;0;0;0;0;0;0;0;0;63
+180;CAPT. PANAKA;SOLDIER;Get their weapons.;EXT. PALACE - PLAZA - DAY;3;0;0;0;0;0;0;0;0;0;27
+181;JAR JAR;QUI-GON;Yousa guys bombad!;EXT. PALACE - PLAZA - DAY;3;0;0;0;0;0;0;0;0;0;27
+182;QUI-GON;AMIDALA;Your Highness, we are the Ambassadors, for the Supreme Chancellor.;EXT. PALACE - PLAZA - DAY;10;0;0;0;0;0;0;0;0;0;90
+183;BIBBLE;QUI-GON;Your negotiations seem;EXT. PALACE - PLAZA - DAY;0;0;0;0;0;0;0;0;0;0;0
+184;QUI-GON;BIBBLE;The negotiations never took place. Your Highness, we must make contact with the republic.;EXT. PALACE - PLAZA - DAY;14;0;0;0;0;0;0;0;0;0;126
+185;CAPT. PANAKA;QUI-GON;They've knocked out all our communications.;EXT. PALACE - PLAZA - DAY;6;0;0;0;0;0;0;0;0;0;54
+186;QUI-GON;CAPT. PANAKA;Do you have transports?;EXT. PALACE - PLAZA - DAY;4;0;0;0;0;0;0;0;0;0;36
+187;CAPT. PANAKA;QUI-GON;In the main hanger. This way.;EXT. PALACE - PLAZA - DAY;6;0;0;0;0;0;0;0;0;0;54
+188;CAPT. PANAKA;QUI-GON;There are too many of them.;INT. CENTRAL HANGER - HALLWAY - DAY;6;0;0;0;0;0;0;0;0;0;54
+189;QUI-GON;AMIDALA;That won't be a problem. Your Highness, under the circumstances, I suggest you come to Coruscant with us.;INT. CENTRAL HANGER - HALLWAY - DAY;18;0;0;0;0;0;0;0;0;0;162
+190;AMIDALA;QUI-GON;Thank you, Ambassador, but my place is here with my people.;INT. CENTRAL HANGER - HALLWAY - DAY;11;0;0;0;0;0;0;0;0;0;99
+191;QUI-GON;AMIDALA;They will kill you if you stay.;INT. CENTRAL HANGER - HALLWAY - DAY;7;0;0;0;0;0;0;0;0;0;63
+192;BIBBLE;QUI-GON;They wouldn’t dare;INT. CENTRAL HANGER - HALLWAY - DAY;0;0;0;0;0;0;0;0;0;0;0
+193;CAPT. PANAKA;QUI-GON;They need her to sign a treaty to make this invasion of theirs legal. They can't afford to kill her.;INT. CENTRAL HANGER - HALLWAY - DAY;20;0;0;0;0;0;0;0;0;0;180
+194;QUI-GON;AMIDALA;The situation here is not what it seems. There is something else behind all this, Your Highness. There is no logic in the Federation's move here. My feelings tell me they will destroy you.;INT. CENTRAL HANGER - HALLWAY - DAY;34;0;0;0;0;0;0;0;0;0;306
+195;BIBBLE;AMIDALA;Our only hope is for the Senate to side with us Senator Palpatine will need your help.;INT. CENTRAL HANGER - HALLWAY - DAY;17;0;0;0;0;0;0;0;0;0;153
+196;AMIDALA;BIBBLE;Either choice presents a great risk to all of us;INT. CENTRAL HANGER - HALLWAY - DAY;10;0;0;0;0;0;0;0;0;0;90
+197;PADME;AMIDALA;We are brave, Your Highness.;INT. CENTRAL HANGER - HALLWAY - DAY;5;0;0;0;0;0;0;0;0;0;45
+198;QUI-GON;AMIDALA;If you are to leave, Your Highness, it must be now.;INT. CENTRAL HANGER - HALLWAY - DAY;11;0;0;0;0;0;0;0;0;0;99
+199;AMIDALA;QUI-GON;Then, I will plead our case before the Senate. Be careful, Governor.;INT. CENTRAL HANGER - HALLWAY - DAY;12;0;0;0;0;0;0;0;0;0;108
+200;CAPT. PANAKA;QUI-GON;We need to free those pilots.;INT. CENTRAL HANGER - DAY;6;0;0;0;0;0;0;0;0;0;54
+201;QUI-GON;CAPT. PANAKA;I'll deal with that.;INT. CENTRAL HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+202;GUARD DROID;QUI-GON;Halt.;INT. CENTRAL HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+203;QUI-GON;GUARD DROID;I'm Ambassador for the Supreme Chancellor, and I'm taking those people to Coruscant.;INT. CENTRAL HANGER - DAY;13;0;0;0;0;0;0;0;0;0;117
+204;GUARD DROID;QUI-GON;Where are you taking them?;INT. CENTRAL HANGER - DAY;5;0;0;0;0;0;0;0;0;0;45
+205;QUI-GON;GUARD DROID;To Coruscant.;INT. CENTRAL HANGER - DAY;2;0;0;0;0;0;0;0;0;0;18
+206;GUARD DROID;QUI-GON;Coruscant? Uh, that doesn't compute. Uh, wait. Uh, you're under arrest.;INT. CENTRAL HANGER - DAY;13;0;0;0;0;0;0;0;0;0;117
+207;CAPT. PANAKA;PADME;Come on. Move!;INT. CENTRAL HANGER - DAY;3;0;0;0;0;0;0;0;0;0;27
+208;OBI-WAN;PILOTS;GO!;INT. CENTRAL HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+209;RIC OLIE;QUI-GON;our communications are still jammed.;INT. NABOO SPACECRAFT - COCKPIT;5;0;0;0;0;0;0;0;0;0;45
+210;OBI-WAN;JAR JAR;Now stay here, and keep out of trouble.;INT. NABOO SPACECRAFT - DROID HOLD;8;0;0;0;0;0;0;0;0;0;72
+211;JAR JAR;JAR JAR;Ello, boyos.;INT. NABOO SPACECRAFT - DROID HOLD;2;0;0;0;0;0;0;0;0;0;18
+212;RIC OLIE;QUI-GON;There's the blockade.;INT. NABOO SPACECRAFT - DROID HOLD;3;0;0;0;0;0;0;0;0;0;27
+213;RIC OLIE;QUI-GON;The shield generator's been hit!;INT. NABOO SPACECRAFT - DROID HOLD;5;0;0;0;0;0;0;0;0;0;45
+214;OBI-WAN;RIC OLIE;We're losing droids fast.;INT. NABOO SPACECRAFT - DROID HOLD;4;0;0;0;0;0;0;0;0;0;36
+215;RIC OLIE;OBI-WAN;If we can't get the shield generator fixed, we'll be sitting ducks.;INT. NABOO SPACECRAFT - DROID HOLD;12;0;0;0;0;0;0;0;0;0;108
+216;RIC OLIE;OBI-WAN;The shields are gone.;INT. NABOO SPACECRAFT - DROID HOLD;4;0;0;0;0;0;0;0;0;0;36
+217;RIC OLIE;OBI-WAN;Powers back! That little droid did it. He bypassed the main power drive. Deflector shield up, at maximum.;INT. NABOO SPACECRAFT - DROID HOLD;18;0;0;0;0;0;0;0;0;0;162
+218;RIC OLIE;OBI-WAN;There's not enough power to get us to Coruscant the hyperdrive is leaking.;INT. NABOO SPACECRAFT - DROID HOLD;13;0;0;0;0;0;0;0;0;0;117
+219;QUI-GON;RIC OLIE;We'll have to land somewhere to refuel and repair the ship.;INT. NABOO SPACECRAFT - DROID HOLD;11;0;0;0;0;0;0;0;0;0;99
+220;OBI-WAN;QUI-GON;Here, Master. Tatooine. It's small, out of the way, poor The Trade Federation has no presence there.;INT. NABOO SPACECRAFT - DROID HOLD;17;0;0;0;0;0;0;0;0;0;153
+221;CAPT. PANAKA;OBI-WAN;How can you be sure?;INT. NABOO SPACECRAFT - DROID HOLD;5;0;0;0;0;0;0;0;0;0;45
+222;QUI-GON;CAPT. PANAKA;It's controlled by the Hutts;INT. NABOO SPACECRAFT - DROID HOLD;5;0;0;0;0;0;0;0;0;0;45
+223;CAPT. PANAKA;QUI-GON;You can't take Her Royal Highness there! The Hutts are gangsters If they discovered her;INT. NABOO SPACECRAFT - DROID HOLD;15;0;0;0;0;0;0;0;0;0;135
+224;QUI-GON;CAPT. PANAKA;It would be no different than if we landed on a system controlled by the Federation except the Hutts aren't looking for her, which gives us an advantage.;INT. NABOO SPACECRAFT - DROID HOLD;28;0;0;0;0;0;0;0;0;0;252
+225;DARTH SIDIOUS;NUTE;And Queen Amidala, has she signed the treaty?;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;8;0;0;0;0;0;0;0;0;0;72
+226;NUTE;DARTH SIDIOUS;She has disappeared, My Lord. One Naboo cruiser got pat the blockade.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;12;0;0;0;0;0;0;0;0;0;108
+227;DARTH SIDIOUS;NUTE;Viceroy, find her! I want that treaty signed.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;8;0;0;0;0;0;0;0;0;0;72
+228;NUTE;DARTH SIDIOUS;My Lord, it's impossible to locate the ship. It's out of our range.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;13;0;0;0;0;0;0;0;0;0;117
+229;DARTH SIDIOUS;NUTE;not for a Sith. Viceroy, this is my apprentice. Lord Maul. He will find your lost ship.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;17;0;0;0;0;0;0;0;0;0;153
+230;NUTE;RUNE;This is getting out of hand now there are two of them.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;12;0;0;0;0;0;0;0;0;0;108
+231;RUNE;NUTE;We should not have made this bargain.;INT. FEDERATION BATTLESHIP - CONFERENCE ROOM;7;0;0;0;0;0;0;0;0;0;63
+232;CAPT. PANAKA;AMIDALA;An extremely well put together little droid. Without a doubt, it saved the ship, as well as our lives.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;19;0;0;0;0;0;0;0;0;0;171
+233;AMIDALA;CAPT. PANAKA;It is to be commended what is its number?;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;9;0;0;0;0;0;0;0;0;0;81
+234;CAPT. PANAKA;AMIDALA;R2-D2, Your Highness.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;3;0;0;0;0;0;0;0;0;0;27
+235;AMIDALA;ARTOO;Thank you, ARTOO Detoo. You have proven to be very loyal Padme;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;12;0;0;0;0;0;0;0;0;0;108
+236;ARTOO;AMIDALA;Beeps;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;1;0;0;0;0;0;0;0;0;0;9
+237;AMIDALA;PADME;Clean this droid up the best you can. It deserves our gratitude.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;12;0;0;0;0;0;0;0;0;0;108
+238;AMIDALA;CAPT. PANAKA;Continue, Captain.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;2;0;0;0;0;0;0;0;0;0;18
+239;QUI-GON;AMIDALA;Your Highness, we are heading for a remote planet called Tatooine. It is a system far beyond the reach of the Trade Federation.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;23;0;0;0;0;0;0;0;0;0;207
+240;CAPT. PANAKA;AMIDALA;I do not agree with the Jedi on this.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;9;0;0;0;0;0;0;0;0;0;81
+241;QUI-GON;AMIDALA;You must trust my judgment, Your Highness.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;7;0;0;0;0;0;0;0;0;0;63
+242;JAR JAR;PADME;Hidoe! Sorry, nomeanen to scare yousa.;INT. NABOO SPACECRAFT - MAIN AREA;6;0;0;0;0;0;0;0;0;0;54
+243;ARTOO;PADME;beeps;INT. NABOO SPACECRAFT - MAIN AREA;1;0;0;0;0;0;0;0;0;0;9
+244;JAR JAR;PADME;Mesa Ja Ja Binksss;INT. NABOO SPACECRAFT - MAIN AREA;4;0;0;0;0;0;0;0;0;0;36
+245;PADME;JAR JAR;I'm Padme, I attend Her Highness, You're a Gungan, aren't you? How did you end up here with us?;INT. NABOO SPACECRAFT - MAIN AREA;19;0;0;0;0;0;0;0;0;0;171
+246;JAR JAR;PADME;Me no know mesa day starten pitty okeyday witda brisky morning munchen. Den boom getten berry skeered, un grabbed dat Jedi, and before mesa knowen it pow! Mesa here. Getten berry berry skeered.;INT. NABOO SPACECRAFT - MAIN AREA;33;0;0;0;0;0;0;0;0;0;297
+247;ARTOO;JAR JAR;beeps;INT. NABOO SPACECRAFT - MAIN AREA;1;0;0;0;0;0;0;0;0;0;9
+248;OBI-WAN;QUI-GON;That's it. Tatooine.;INT. NABOO SPACECRAFT - COCKPIT;3;0;0;0;0;0;0;0;0;0;27
+249;RIC OLIE;QUI-GON;There's a settlement a spaceport, looks like.;INT. NABOO SPACECRAFT - COCKPIT;7;0;0;0;0;0;0;0;0;0;63
+250;QUI-GON;RIC OLIE;Land near the outskirts. We don't want to attract any attention.;INT. NABOO SPACECRAFT - COCKPIT;11;0;0;0;0;0;0;0;0;0;99
+251;OBI-WAN;QUI-GON;The Hyperdrive generator is gone. We will need a new one.;EXT. NABOO SPACECRAFT - MAIN AREA;11;0;0;0;0;0;0;0;0;0;99
+252;QUI-GON;OBI-WAN;That'll complicate things. Be wary. I sense a disturbance in the Force.;EXT. NABOO SPACECRAFT - MAIN AREA;12;0;0;0;0;0;0;0;0;0;108
+253;OBI-WAN;QUI-GON;I fell it also, Master.;EXT. NABOO SPACECRAFT - MAIN AREA;5;0;0;0;0;0;0;0;0;0;45
+254;QUI-GON;OBI-WAN;Don't let them send any transmissions.;EXT. NABOO SPACECRAFT - MAIN AREA;6;0;0;0;0;0;0;0;0;0;54
+255;JAR JAR;QUI-GON;Dis sun doen murder tada skin.;EXT. TATOOINE - DESERT - SPACESHIP - DAY;6;0;0;0;0;0;0;0;0;0;54
+256;CAPT. PANAKA;QUI-GON;Wait ! Her Highness commands you to take her handmaiden with you. She wishes for her to observe the local;EXT. TATOOINE - DESERT - SPACESHIP - DAY;20;0;0;0;0;0;0;0;0;0;180
+257;QUI-GON;CAPT. PANAKA;No more commands from Her Highness today, Captain. This spaceport is not going to be pleasant;EXT. TATOOINE - DESERT - SPACESHIP - DAY;16;0;0;0;0;0;0;0;0;0;144
+258;CAPT. PANAKA;QUI-GON;The Queen wishes it. She is curious about this planet.;EXT. TATOOINE - DESERT - SPACESHIP - DAY;10;0;0;0;0;0;0;0;0;0;90
+259;QUI-GON;CAPT. PANAKA;This is not a good idea. Stay close to me.;EXT. TATOOINE - DESERT - SPACESHIP - DAY;10;0;0;0;0;0;0;0;0;0;90
+260;ARTOO;QUI-GON;beeps;EXT. TATOOINE - DESERT - SPACESHIP - DAY;1;0;0;0;0;0;0;0;0;0;9
+261;QUI-GON;PADME;moisture farms for the most part, but also a few indigenous tribes and scavengers. The few spaceports like this one are havens for those who do not wish to be found;EXT. MOS ESPA - STREET - DAY;31;0;0;0;0;0;0;0;0;0;279
+262;PADME;QUI-GON;like us.;EXT. MOS ESPA - STREET - DAY;2;0;0;0;0;0;0;0;0;0;18
+263;JAR JAR;QUI-GON;Dissen berry, berry bad. Icky, icky goo!;EXT. MOS ESPA - STREET - DAY;7;0;0;0;0;0;0;0;0;0;63
+264;QUI-GON;PADME;We'll try one of the smaller dealers.;EXT. MOS ESPA - JUNK DEALER PLAZA - DAY;7;0;0;0;0;0;0;0;0;0;63
+265;WATTO;QUI-GON;Good day to you.;INT. WATTO'S JUNK SHOP - DAY;4;0;0;0;0;0;0;0;0;0;36
+266;QUI-GON;WATTO;I need parts for a J-type 327 Nubian.;INT. WATTO'S JUNK SHOP - DAY;8;0;0;0;0;0;0;0;0;0;72
+267;WATTO;QUI-GON;Ah yes, ah yes. Nubian. We have lots of that. What kinda junk? Peedenkel! Naba dee unko;INT. WATTO'S JUNK SHOP - DAY;17;0;0;0;0;0;0;0;0;0;153
+268;QUI-GON;WATTO;My droid here has a readout of what I need.;INT. WATTO'S JUNK SHOP - DAY;10;0;0;0;0;0;0;0;0;0;90
+269;WATTO;QUI-GON;Coona tee-tocky malia?;INT. WATTO'S JUNK SHOP - DAY;3;0;0;0;0;0;0;0;0;0;27
+270;ANAKIN;WATTO;Mel tassa cho-passa;INT. WATTO'S JUNK SHOP - DAY;3;0;0;0;0;0;0;0;0;0;27
+271;WATTO;ANAKIN;Chut-Chut! Ganda doe wallya. Me dwana no bata. Soooo, let me take- a thee out back. Ni you'll find what you need.;INT. WATTO'S JUNK SHOP - DAY;22;0;0;0;0;0;0;0;0;0;198
+272;QUI-GON;JAR JAR;Don't touch anything.;INT. WATTO'S JUNK SHOP - DAY;3;0;0;0;0;0;0;0;0;0;27
+273;ANAKIN;PADME;Are you an angel?;INT. WATTO'S JUNK SHOP - DAY;4;0;0;0;0;0;0;0;0;0;36
+274;PADME;ANAKIN;What?;INT. WATTO'S JUNK SHOP - DAY;1;0;0;0;0;0;0;0;0;0;9
+275;ANAKIN;PADME;An angel. I've heard the deep space pilots talk about them. They live on the Moons of Iego I think. They are the most beautiful creatures in the universe. They are good and kind, and so pretty they make even the most hardened spice pirate cry.;INT. WATTO'S JUNK SHOP - DAY;46;0;0;0;0;0;0;0;0;0;414
+276;PADME;ANAKIN;You're a funny little boy. How do you know so much?;INT. WATTO'S JUNK SHOP - DAY;11;0;0;0;0;0;0;0;0;0;99
+277;ANAKIN;PADME;I listen to all the traders and star pilots who come through here. I'm a pilot, you know, and someday I'm gonna fly away from this place.;INT. WATTO'S JUNK SHOP - DAY;27;0;0;0;0;0;0;0;0;0;243
+278;PADME;ANAKIN;You're a pilot?;INT. WATTO'S JUNK SHOP - DAY;3;0;0;0;0;0;0;0;0;0;27
+279;ANAKIN;PADME;All my life.;INT. WATTO'S JUNK SHOP - DAY;2;0;0;0;0;0;0;0;0;0;18
+280;PADME;ANAKIN;How long have you been here?;INT. WATTO'S JUNK SHOP - DAY;6;0;0;0;0;0;0;0;0;0;54
+281;ANAKIN;PADME;Since I was very little, three, I think. My Mom and I were sold to Gardulla the Hutt, but she lost us, betting on the Podraces, to Watto, who's a lot better master than Gardulla, I think.;INT. WATTO'S JUNK SHOP - DAY;37;0;0;0;0;0;0;0;0;0;333
+282;PADME;ANAKIN;You're a slave?;INT. WATTO'S JUNK SHOP - DAY;3;0;0;0;0;0;0;0;0;0;27
+283;ANAKIN;PADME;I am a person! My name is Anakin.;INT. WATTO'S JUNK SHOP - DAY;8;0;0;0;0;0;0;0;0;0;72
+284;PADME;ANAKIN;I'm sorry. I don't fully understand. This is a strange world to me.;INT. WATTO'S JUNK SHOP - DAY;13;0;0;0;0;0;0;0;0;0;117
+285;ANAKIN;PADME;Hit the nose!;INT. WATTO'S JUNK SHOP - DAY;3;0;0;0;0;0;0;0;0;0;27
+286;WATTO;QUI-GON;Here it is a T-14 hyperdrive generator! Thee in luck, I'm the only one hereabouts who has one but thee might as well buy a new ship. It would be cheaper, I think Sying of which, how's thee going to pay for all this?;EXT. WATTO'S JUNK YARD - BEHIND SHOP - DAY;44;0;0;0;0;0;0;0;0;0;396
+287;QUI-GON;WATTO;I have 20,000 Republic dataries.;EXT. WATTO'S JUNK YARD - BEHIND SHOP - DAY;6;0;0;0;0;0;0;0;0;0;54
+288;WATTO;QUI-GON;Republic credits?!? Republic credits are no good out here. I need something more real;EXT. WATTO'S JUNK YARD - BEHIND SHOP - DAY;14;0;0;0;0;0;0;0;0;0;126
+289;QUI-GON;WATTO;I don't have anything else. But credits will do fine.;EXT. WATTO'S JUNK YARD - BEHIND SHOP - DAY;10;0;0;0;0;0;0;0;0;0;90
+290;WATTO;QUI-GON;No they won'ta.;EXT. WATTO'S JUNK YARD - BEHIND SHOP - DAY;3;0;0;0;0;0;0;0;0;0;27
+291;QUI-GON;WATTO;Credits will do fine.;EXT. WATTO'S JUNK YARD - BEHIND SHOP - DAY;4;0;0;0;0;0;0;0;0;0;36
+292;WATTO;QUI-GON;No, they won'ta. What you think you're some kinda Jedi, waving your hand around like that? I'm a Toydarian. Mind tricks don'ta work on me-only money. No money, no parts! No deal! And no one else has a T-14 hyperdrive, I promise you that.;EXT. WATTO'S JUNK YARD - BEHIND SHOP - DAY;44;0;0;0;0;0;0;0;0;0;396
+293;ANAKIN;PADME;wouldn't have lasted long if I weren't so good at fixing things. I'm making my own droid;INT. WATTO'S JUNK SHOP - DAY;17;0;0;0;0;0;0;0;0;0;153
+294;QUI-GON;PADME;We're leaving.;INT. WATTO'S JUNK SHOP - DAY;2;0;0;0;0;0;0;0;0;0;18
+295;PADME;ANAKIN;I'm glad I met you, Anakin;INT. WATTO'S JUNK SHOP - DAY;6;0;0;0;0;0;0;0;0;0;54
+296;ANAKIN;PADME;I'm glad I met you too.;INT. WATTO'S JUNK SHOP - DAY;6;0;0;0;0;0;0;0;0;0;54
+297;WATTO;ANAKIN;Ootmians! Tinka me chasa hopoe ma booty na nolia.;INT. WATTO'S JUNK SHOP - DAY;9;0;0;0;0;0;0;0;0;0;81
+298;ANAKIN;WATTO;La lova num botaffa.;INT. WATTO'S JUNK SHOP - DAY;4;0;0;0;0;0;0;0;0;0;36
+299;WATTO;ANAKIN;Fweepa niaga. Tolpa da bunky dunko.;INT. WATTO'S JUNK SHOP - DAY;6;0;0;0;0;0;0;0;0;0;54
+300;QUI-GON;OBI-WAN;You're sure there isn't anything of value left on board?;EXT. MOS ESPA - STREET - ALCOVE - DAY;10;0;0;0;0;0;0;0;0;0;90
+301;OBI-WAN;QUI-GON;A few containers of supplies, the Queen's wardrobe, maybe. Not enough for you to barter with. Not in the amounts you're talking about.;EXT. MOS ESPA - STREET - ALCOVE - DAY;23;0;0;0;0;0;0;0;0;0;207
+302;QUI-GON;OBI-WAN;All right. Another solution will present itself. I'll check back.;EXT. MOS ESPA - STREET - ALCOVE - DAY;10;0;0;0;0;0;0;0;0;0;90
+303;JAR JAR;QUI-GON;Noah gain da beings hereabouts cawazy. Wesa be robbed un crunched.;EXT. MOS ESPA - STREET - ALCOVE - DAY;11;0;0;0;0;0;0;0;0;0;99
+304;QUI-GON;JAR JAR;Not likely. We have nothing of value, that's our problem.;EXT. MOS ESPA - STREET - ALCOVE - DAY;10;0;0;0;0;0;0;0;0;0;90
+305;ARTOO;QUI-GON;beeps;EXT. MOS ESPA - STREET - ALCOVE - DAY;1;0;0;0;0;0;0;0;0;0;9
+306;VENDOR;JAR JAR;Hey, that will be seven truguts!;EXT. MOS ESPA - STREET - MARKET - DAY;6;0;0;0;0;0;0;0;0;0;54
+307;SEBULBA;JAR JAR;Chuba!;EXT. MOS ESPA - STREET - MARKET - DAY;1;0;0;0;0;0;0;0;0;0;9
+308;JAR JAR;SEBULBA;Who, mesa?;EXT. MOS ESPA - STREET - MARKET - DAY;2;0;0;0;0;0;0;0;0;0;18
+309;SEBULBA;JAR JAR;Ni chuba na?;EXT. MOS ESPA - STREET - MARKET - DAY;3;0;0;0;0;0;0;0;0;0;27
+310;JAR JAR;SEBULBA;Why mesa always da one?;EXT. MOS ESPA - STREET - MARKET - DAY;5;0;0;0;0;0;0;0;0;0;45
+311;ANAKIN;SEBULBA;Chess ko, Sebulba Coo wolpa tooney rana.;EXT. MOS ESPA - STREET - MARKET - DAY;7;0;0;0;0;0;0;0;0;0;63
+312;SEBULBA;ANAKIN;Tooney rana nu pratta dunko, shag.;EXT. MOS ESPA - STREET - MARKET - DAY;6;0;0;0;0;0;0;0;0;0;54
+313;ANAKIN;SEBULBA;Oh da Hutt cha porko ootman geesa me teesa rodda co pana pee choppa chawa.;EXT. MOS ESPA - STREET - MARKET - DAY;15;0;0;0;0;0;0;0;0;0;135
+314;SEBULBA;ANAKIN;Neek me chowa, wermo, mo killee ma klounkee Una noto wo shag, me wompity du pom pom.;EXT. MOS ESPA - STREET - MARKET - DAY;17;0;0;0;0;0;0;0;0;0;153
+315;ANAKIN;SEBULBA;Eh, chee bana do mullee ra.;EXT. MOS ESPA - STREET - MARKET - DAY;6;0;0;0;0;0;0;0;0;0;54
+316;ANAKIN;QUI-GON;Hi!;EXT. MOS ESPA - STREET - MARKET - DAY;1;0;0;0;0;0;0;0;0;0;9
+317;QUI-GON;ANAKIN;Hi there.;EXT. MOS ESPA - STREET - MARKET - DAY;2;0;0;0;0;0;0;0;0;0;18
+318;ANAKIN;QUI-GON;Your buddy here was about to be turned into orange goo. He picked a fight with a Dug. An especially dangerous Dug called Sebulba.;EXT. MOS ESPA - STREET - MARKET - DAY;24;0;0;0;0;0;0;0;0;0;216
+319;JAR JAR;ANAKIN;Nosir, nosir. Mesa hate crunchen. Dat's da last ting mesa wanten.;EXT. MOS ESPA - STREET - MARKET - DAY;11;0;0;0;0;0;0;0;0;0;99
+320;QUI-GON;JAR JAR;Nevertheless, the boy is right you were heading for trouble. Thank you, my young friend.;EXT. MOS ESPA - STREET - MARKET - DAY;15;0;0;0;0;0;0;0;0;0;135
+321;JAR JAR;QUI-GON;Mesa doen nutten!;EXT. MOS ESPA - STREET - MARKET - DAY;3;0;0;0;0;0;0;0;0;0;27
+322;OBI-WAN;CAPT. PANAKA;This storm's going to slow them down.;EXT. TATOOINE - DESERT - SPACESHIP - DAY;7;0;0;0;0;0;0;0;0;0;63
+323;CAPT. PANAKA;OBI-WAN;It looks pretty bad. We'd better seal the ship.;EXT. TATOOINE - DESERT - SPACESHIP - DAY;9;0;0;0;0;0;0;0;0;0;81
+324;CAPT. PANAKA;CONTROLLER;Yes?;EXT. TATOOINE - DESERT - SPACESHIP - DAY;1;0;0;0;0;0;0;0;0;0;9
+325;CONTROLLER;CAPT. PANAKA;Receiving a message from home.;EXT. TATOOINE - DESERT - SPACESHIP - DAY;5;0;0;0;0;0;0;0;0;0;45
+326;CAPT. PANAKA;CONTROLLER;We'll be right there.;EXT. TATOOINE - DESERT - SPACESHIP - DAY;4;0;0;0;0;0;0;0;0;0;36
+327;ANAKIN;QUI-GON;Here, you'll like these pallies. Here.;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;6;0;0;0;0;0;0;0;0;0;54
+328;QUI-GON;ANAKIN;Thank you.;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;2;0;0;0;0;0;0;0;0;0;18
+329;JIRA;ANAKIN;My bones are aching. Storm's coming up, Ani. You better get home quick.;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;13;0;0;0;0;0;0;0;0;0;117
+330;ANAKIN;QUI-GON;Do you have shelter?;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;4;0;0;0;0;0;0;0;0;0;36
+331;QUI-GON;ANAKIN;We'll head back to our ship.;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;6;0;0;0;0;0;0;0;0;0;54
+332;ANAKIN;QUI-GON;Is it far?;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;3;0;0;0;0;0;0;0;0;0;27
+333;PADME;ANAKIN;On the outskirts.;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;3;0;0;0;0;0;0;0;0;0;27
+334;ANAKIN;PADME;You'll never reach the outskirts in time sandstorms are very, very dangerous. Come with me. Hurry!;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;16;0;0;0;0;0;0;0;0;0;144
+335;ARTOO;ANAKIN;beeps;EXT. MOS ESPA - STREET - FRUIT STAND - DAY;1;0;0;0;0;0;0;0;0;0;9
+336;ANAKIN;SHMI;Mom! Mom! I'm home.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;4;0;0;0;0;0;0;0;0;0;36
+337;JAR JAR;ANAKIN;Dissen cozy.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;2;0;0;0;0;0;0;0;0;0;18
+338;ANAKIN;SHMI;These are my friends, Mom.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;5;0;0;0;0;0;0;0;0;0;45
+339;QUI-GON;SHMI;I'm Qui-Gon Jinn. Your son was kind enough to offer us shelter.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+340;ANAKIN;PADME;I'm building a droid. You wanna see? Come on. I'll show you 3PO.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;13;0;0;0;0;0;0;0;0;0;117
+341;ARTOO;ANAKIN;beeps;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+342;ANAKIN;PADME;Isn't he great?! He's not finished yet.;INT. ANAKIN'S HOVEL - BEDROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+343;PADME;ANAKIN;He's wonderful!;INT. ANAKIN'S HOVEL - BEDROOM - DAY;2;0;0;0;0;0;0;0;0;0;18
+344;ARTOO;THREEPIO;beeps;INT. ANAKIN'S HOVEL - BEDROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+345;ANAKIN;PADME;You really like him? He's a protocol droid to help Mom. Watch!;INT. ANAKIN'S HOVEL - BEDROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+346;THREEPIO;ANAKIN;How do you do, I am See-Threepio, Human Cyborg Relations. How might I serve you?;INT. ANAKIN'S HOVEL - BEDROOM - DAY;15;0;0;0;0;0;0;0;0;0;135
+347;PADME;ANAKIN;He's perfect.;INT. ANAKIN'S HOVEL - BEDROOM - DAY;2;0;0;0;0;0;0;0;0;0;18
+348;ANAKIN;PADME;When the storm is over, you can see my racer. I'm building a Podracer!;INT. ANAKIN'S HOVEL - BEDROOM - DAY;14;0;0;0;0;0;0;0;0;0;126
+349;ARTOO;THREEPIO;beeps;INT. ANAKIN'S HOVEL - BEDROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+350;THREEPIO;ANAKIN;I'm not sure this floor is entirely stable.;INT. ANAKIN'S HOVEL - BEDROOM - DAY;8;0;0;0;0;0;0;0;0;0;72
+351;THREEPIO;ARTOO;Hello. I don't believe we have been introduced.;INT. ANAKIN'S HOVEL - BEDROOM - DAY;8;0;0;0;0;0;0;0;0;0;72
+352;ARTOO;THREEPIO;beeps;INT. ANAKIN'S HOVEL - BEDROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+353;THREEPIO;ARTOO;R2-D2. A pleasure to meet you. I am C-3PO, human cyborg relations.;INT. ANAKIN'S HOVEL - BEDROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+354;ARTOO;THREEPIO;beeps;INT. ANAKIN'S HOVEL - BEDROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+355;THREEPIO;ARTOO;I beg your pardon, but what do you mean, naked?;INT. ANAKIN'S HOVEL - BEDROOM - DAY;10;0;0;0;0;0;0;0;0;0;90
+356;ARTOO;THREEPIO;beeps;INT. ANAKIN'S HOVEL - BEDROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+357;THREEPIO;ARTOO;My parts are showing? Oh, my goodness.;INT. ANAKIN'S HOVEL - BEDROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+358;BIBBLE;AMIDALA;The death toll is catastrophic. We must bow to their wishes. You must contact me.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;15;0;0;0;0;0;0;0;0;0;135
+359;OBI-WAN;AMIDALA;It's a trick. Send no reply Send no transmission of any kind.;INT. NABOO SPACECRAFT - QUEENS CHAMBERS;12;0;0;0;0;0;0;0;0;0;108
+360;QUI-GON;OBI-WAN;It sounds like bait to establish a connection trace.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;9;0;0;0;0;0;0;0;0;0;81
+361;OBI-WAN;QUI-GON;What if it is true and the people are dying?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;10;0;0;0;0;0;0;0;0;0;90
+362;QUI-GON;OBI-WAN;Either way, we're running out of time.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+363;DARTH MAUL;DARTH SIDIOUS;Tatooine is sparsely populated. If the trace was correct I will find them quickly, Master.;EXT. CORUSCANT - BALCONY OVERLOOKING CITY - NIGHT;15;0;0;0;0;0;0;0;0;0;135
+364;DARTH SIDIOUS;DARTH MAUL;Move against the Jedi first you will then have no difficulty taking the Queen back to Naboo, where she will sign the treaty.;EXT. CORUSCANT - BALCONY OVERLOOKING CITY - NIGHT;23;0;0;0;0;0;0;0;0;0;207
+365;DARTH MAUL;DARTH SIDIOUS;At last we will reveal ourselves to the Jedi. At last we will have revenge.;EXT. CORUSCANT - BALCONY OVERLOOKING CITY - NIGHT;15;0;0;0;0;0;0;0;0;0;135
+366;DARTH SIDIOUS;DARTH MAUL;You have been well trained, my young apprentice, they will be no match for you.;EXT. CORUSCANT - BALCONY OVERLOOKING CITY - NIGHT;15;0;0;0;0;0;0;0;0;0;135
+367;SHMI;QUI-GON;All slaves have transmitters placed inside their bodies somewhere.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;9;0;0;0;0;0;0;0;0;0;81
+368;ANAKIN;QUI-GON;I've been working on a scanner to try and locate them, but no luck.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;14;0;0;0;0;0;0;0;0;0;126
+369;SHMI;QUI-GON;Any attempt to escape;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;4;0;0;0;0;0;0;0;0;0;36
+370;ANAKIN;QUI-GON;and they blow you up poof!;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;6;0;0;0;0;0;0;0;0;0;54
+371;JAR JAR;ANAKIN;How wude.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;2;0;0;0;0;0;0;0;0;0;18
+372;PADME;SHMI;I can't believe there is still slavery in the galaxy. The Republic's anti-slavery laws;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;14;0;0;0;0;0;0;0;0;0;126
+373;SHMI;PADME;The Republic doesn't exist out here we must survive on our own.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+374;ANAKIN;PADME;Have you ever seen a Podrace?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;6;0;0;0;0;0;0;0;0;0;54
+375;QUI-GON;ANAKIN;They have Podracing on Malastare. Very fast, very dangerous.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;9;0;0;0;0;0;0;0;0;0;81
+376;ANAKIN;QUI-GON;I'm the only human who can do it.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;8;0;0;0;0;0;0;0;0;0;72
+377;QUI-GON;ANAKIN;You must have Jedi reflexes if you race Pods.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;9;0;0;0;0;0;0;0;0;0;81
+378;QUI-GON;JAR JAR;Don't do that again.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;4;0;0;0;0;0;0;0;0;0;36
+379;ANAKIN;QUI-GON;Well, ahhh you're a Jedi Knight, aren't you?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;8;0;0;0;0;0;0;0;0;0;72
+380;QUI-GON;ANAKIN;What makes you think that?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;5;0;0;0;0;0;0;0;0;0;45
+381;ANAKIN;QUI-GON;I saw your laser sword. Only Jedi carry that kind of weapon.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+382;QUI-GON;ANAKIN;Perhaps I killed a Jedi and stole it from him.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;10;0;0;0;0;0;0;0;0;0;90
+383;ANAKIN;QUI-GON;I don't think so No one can kill a Jedi Knight.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;11;0;0;0;0;0;0;0;0;0;99
+384;QUI-GON;ANAKIN;I wish that were so;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;5;0;0;0;0;0;0;0;0;0;45
+385;ANAKIN;QUI-GON;I had a dream I was a Jedi. I came back here and free all the slaves have you come to free us?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;23;0;0;0;0;0;0;0;0;0;207
+386;QUI-GON;ANAKIN;No, I'm afraid not;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;4;0;0;0;0;0;0;0;0;0;36
+387;ANAKIN;QUI-GON;I think you have why else would you be here?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;10;0;0;0;0;0;0;0;0;0;90
+388;QUI-GON;ANAKIN;I can see there's no fooling you You mustn't let anyone know about us we're on our way to Coruscant, the central system in the Republic, on a very important mission, and it must be kept secret.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;37;0;0;0;0;0;0;0;0;0;333
+389;ANAKIN;QUI-GON;Coruscant wow how did you end up here in the outer rim?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+390;PADME;ANAKIN;Our ship was damaged, and we're stranded here until we can repair it.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;13;0;0;0;0;0;0;0;0;0;117
+391;ANAKIN;PADME;I can help! I can fix anything!;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+392;QUI-GON;ANAKIN;I believe you can, but our first job is to acquire the parts we need;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;15;0;0;0;0;0;0;0;0;0;135
+393;JAR JAR;ANAKIN;Wit no-nutten mula to trade.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;5;0;0;0;0;0;0;0;0;0;45
+394;PADME;ANAKIN;These junk dealers must have a weakness of some kind.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;10;0;0;0;0;0;0;0;0;0;90
+395;SHMI;PADME;Gambling. Everything here revolves around betting on those awful races.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;10;0;0;0;0;0;0;0;0;0;90
+396;QUI-GON;SHMI;Podracing Greed can be a powerful ally if it's used properly.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;11;0;0;0;0;0;0;0;0;0;99
+397;ANAKIN;QUI-GON;I've built a racer! It's the fastest ever There's a big race tomorrow, on Boonta Eve. You could enter my pod. It's all but finished;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;25;0;0;0;0;0;0;0;0;0;225
+398;SHMI;ANAKIN;Anakin, settle down. Watto won't let you;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+399;ANAKIN;SHMI;Watto doesn't know I've built it.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;6;0;0;0;0;0;0;0;0;0;54
+400;ANAKIN;QUI-GON;You could make him think it's yours, and you could get him to let me pilot it for you.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;19;0;0;0;0;0;0;0;0;0;171
+401;SHMI;ANAKIN;I don't want you to race, Annie It's awful. I die every time Watto makes you do it.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;18;0;0;0;0;0;0;0;0;0;162
+402;ANAKIN;SHMI;But Mom, I love it and they need help they're in trouble. The prize money would more than pay for the parts they need.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;24;0;0;0;0;0;0;0;0;0;216
+403;SHMI;ANAKIN;Anakin;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+404;QUI-GON;ANAKIN;Your mother's right. Is there anyone friendly to the Republic who might be able to help us?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;17;0;0;0;0;0;0;0;0;0;153
+405;SHMI;QUI-GON;No;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+406;ANAKIN;SHMI;Mom, you say the biggest problem in this universe is nobody helps each other.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;14;0;0;0;0;0;0;0;0;0;126
+407;PADME;SHMI;I'm sure Qui-Gon doesn't want to put your son in danger. We will find another way;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;16;0;0;0;0;0;0;0;0;0;144
+408;SHMI;PADME;No, Annie's right, there is no other way I may not like it, but he can help you he was meant to help you.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;24;0;0;0;0;0;0;0;0;0;216
+409;ANAKIN;SHMI;Is that a yes? That is a yes!;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;8;0;0;0;0;0;0;0;0;0;72
+410;PADME;QUI-GON;Are you sure about this? Trusting our fate to a boy we hardly know. The Queen will not approve.;EXT. MOS ESPA - JUNK DEALER PLAZA - DAY;19;0;0;0;0;0;0;0;0;0;171
+411;QUI-GON;PADME;The Queen does not need to know.;EXT. MOS ESPA - JUNK DEALER PLAZA - DAY;7;0;0;0;0;0;0;0;0;0;63
+412;PADME;QUI-GON;Well, I don't approve.;EXT. MOS ESPA - JUNK DEALER PLAZA - DAY;4;0;0;0;0;0;0;0;0;0;36
+413;WATTO;QUI-GON;The boy tells me you wanta sponser hi insa race. You can't afford parts. How can you do this? Not on Republic credits, I think.;INT. WATTO'S JUNK SHOP - DAY;25;0;0;0;0;0;0;0;0;0;225
+414;QUI-GON;WATTO;My ship will be the entry fee.;INT. WATTO'S JUNK SHOP - DAY;7;0;0;0;0;0;0;0;0;0;63
+415;WATTO;QUI-GON;Not bad not bad a Nubian.;INT. WATTO'S JUNK SHOP - DAY;6;0;0;0;0;0;0;0;0;0;54
+416;QUI-GON;WATTO;It's in good order, except for the parts we need.;INT. WATTO'S JUNK SHOP - DAY;10;0;0;0;0;0;0;0;0;0;90
+417;WATTO;QUI-GON;but what would the boy ride? He smashed up my Pod in the last race. It will take some time to fix it.;INT. WATTO'S JUNK SHOP - DAY;23;0;0;0;0;0;0;0;0;0;207
+418;ANAKIN;QUI-GON;Ahhhh it wasn't my fault really Sebulba flashed me with his vent ports. I actually saved the Pod mostly.;INT. WATTO'S JUNK SHOP - DAY;19;0;0;0;0;0;0;0;0;0;171
+419;WATTO;ANAKIN;That you did. The boy is good, no doubts there.;INT. WATTO'S JUNK SHOP - DAY;10;0;0;0;0;0;0;0;0;0;90
+420;QUI-GON;WATTO;I have acquired a Pod in a game of chance. The fastest ever built.;INT. WATTO'S JUNK SHOP - DAY;15;0;0;0;0;0;0;0;0;0;135
+421;WATTO;QUI-GON;I hope you didn't kill anyone I know for it. So, you supply the Pod and the entry fee,  I supply the boy. We split the winnings fifty-fifty, I think.;INT. WATTO'S JUNK SHOP - DAY;30;0;0;0;0;0;0;0;0;0;270
+422;QUI-GON;WATTO;Fifty-fifty!?! If it's going to be fifty-fifty, I suggest you front the cash for the entry. If we win, you keep all the winnings, minus the cost of the parts I need If we lose, you keep my ship.;INT. WATTO'S JUNK SHOP - DAY;39;0;0;0;0;0;0;0;0;0;351
+423;QUI-GON;WATTO;Either way, you win.;INT. WATTO'S JUNK SHOP - DAY;4;0;0;0;0;0;0;0;0;0;36
+424;WATTO;QUI-GON;Deal!;INT. WATTO'S JUNK SHOP - DAY;1;0;0;0;0;0;0;0;0;0;9
+425;WATTO;ANAKIN;Yo bana pee ho-tah, meedee ya.;INT. WATTO'S JUNK SHOP - DAY;6;0;0;0;0;0;0;0;0;0;54
+426;OBI-WAN;QUI-GON;What if this plan fails, Master? We could be stuck here for a long time.;EXT. NABOO SPACECRAFT - TATOOINE DESERT - DAY;15;0;0;0;0;0;0;0;0;0;135
+427;QUI-GON;OBI-WAN;A ship without a power supply will not get us anywhere, and there is something about this boy;EXT. NABOO SPACECRAFT - TATOOINE DESERT - DAY;18;0;0;0;0;0;0;0;0;0;162
+428;QUI-GON;SHMI;You should be proud of your son. He gives without any thought of reward.;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;14;0;0;0;0;0;0;0;0;0;126
+429;SHMI;QUI-GON;He knows nothing of greed. He has;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;7;0;0;0;0;0;0;0;0;0;63
+430;QUI-GON;SHMI;He has special powers.;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;4;0;0;0;0;0;0;0;0;0;36
+431;SHMI;QUI-GON;Yes;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;1;0;0;0;0;0;0;0;0;0;9
+432;QUI-GON;SHMI;He can see things before they happen. That's why he appears to have such quick reflexes. It is a Jedi trait.;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;21;0;0;0;0;0;0;0;0;0;189
+433;SHMI;QUI-GON;He deserves better than a slave's life.;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;7;0;0;0;0;0;0;0;0;0;63
+434;QUI-GON;SHMI;Had he been born in the Republic, we would have identified him early. The Force is unusually strong with him, that much is clear. Who was his father?;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;28;0;0;0;0;0;0;0;0;0;252
+435;SHMI;QUI-GON;There was no father, that I know of I carried him, I gave him birth I can't explain what happened. Can you help him?;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;24;0;0;0;0;0;0;0;0;0;216
+436;QUI-GON;SHMI;I don't know. I didn't actually come here to free slaves.;EXT MOS ESPA - SLAVE QUARTERS - PORCH - DAY;11;0;0;0;0;0;0;0;0;0;99
+437;KITSTER;ANAKIN;Wow, a real Astro Droid how'd you get so lucky?;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;10;0;0;0;0;0;0;0;0;0;90
+438;ANAKIN;KITSTER;This isn't the half of it. I'm entered in the Boonta Race tomorrow!;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;13;0;0;0;0;0;0;0;0;0;117
+439;KITSTER;ANAKIN;What? With this?;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;3;0;0;0;0;0;0;0;0;0;27
+440;WALD;ANAKIN;Annie, Jesko na joka.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;4;0;0;0;0;0;0;0;0;0;36
+441;AMEE;ANAKIN;You've been working on that thing for years. It's never going to run.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;13;0;0;0;0;0;0;0;0;0;117
+442;SEEK;ANAKIN;Come on, let's go play ball. Keep it up, Annie, and you're gonna be bug squash.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;16;0;0;0;0;0;0;0;0;0;144
+443;ANAKIN;JAR JAR;Hey! Jar Jar! Stay away from those energy binders. If your hand gets caught in that beam, it will go numb for hours.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;23;0;0;0;0;0;0;0;0;0;207
+444;JAR JAR;ANAKIN;Ouch-dats muy bigo Oucho.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;4;0;0;0;0;0;0;0;0;0;36
+445;THREEPIO;ARTOO;You know, I find that Jar Jar creature to be a little odd.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;13;0;0;0;0;0;0;0;0;0;117
+446;ARTOO;THREEPIO;beeps;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;1;0;0;0;0;0;0;0;0;0;9
+447;KITSTER;ANAKIN;But you don't even know if this thing will run.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;10;0;0;0;0;0;0;0;0;0;90
+448;ANAKIN;KITSTER;It will.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;2;0;0;0;0;0;0;0;0;0;18
+449;QUI-GON;ANAKIN;I think it's time we found out. Use this power charge.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;11;0;0;0;0;0;0;0;0;0;99
+450;QUI-GON;KITSTER;Come on, Kitster. Let's move away.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;6;0;0;0;0;0;0;0;0;0;54
+451;JAR JAR;ANAKIN;My mouth. Ani, I'm stuck. My tongue is fat.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;9;0;0;0;0;0;0;0;0;0;81
+452;THREEPIO;ARTOO;You're quite right. He's very odd indeed.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;7;0;0;0;0;0;0;0;0;0;63
+453;ARTOO;THREEPIO;beeps;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;1;0;0;0;0;0;0;0;0;0;9
+454;JAR JAR;PADME;Thank you.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;2;0;0;0;0;0;0;0;0;0;18
+455;JAR JAR;ANAKIN;Go.;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;1;0;0;0;0;0;0;0;0;0;9
+456;ANAKIN;QUI-GON;It's working! It's working!;EXT. MOS ESPA - SLAVE QUARTERS - BACK YARD - DAY;4;0;0;0;0;0;0;0;0;0;36
+457;QUI-GON;ANAKIN;Sit still, Annie. Let me clean this cut.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;8;0;0;0;0;0;0;0;0;0;72
+458;ANAKIN;QUI-GON;There are so many! Do they all have a system of planets?;EXT. SLAVE QUARTERS - BALCONY - NIGHT;12;0;0;0;0;0;0;0;0;0;108
+459;QUI-GON;ANAKIN;Most of them.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+460;ANAKIN;QUI-GON;Has anyone been to them all?;EXT. SLAVE QUARTERS - BALCONY - NIGHT;6;0;0;0;0;0;0;0;0;0;54
+461;QUI-GON;ANAKIN;Not likely.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;2;0;0;0;0;0;0;0;0;0;18
+462;ANAKIN;QUI-GON;I want to be the first one to see them all Ouch!;EXT. SLAVE QUARTERS - BALCONY - NIGHT;12;0;0;0;0;0;0;0;0;0;108
+463;SHMI;ANAKIN;Annie, bedtime!;EXT. SLAVE QUARTERS - BALCONY - NIGHT;2;0;0;0;0;0;0;0;0;0;18
+464;SHMI;ANAKIN;Annie! I'm not going to tell you again!;EXT. SLAVE QUARTERS - BALCONY - NIGHT;8;0;0;0;0;0;0;0;0;0;72
+465;ANAKIN;QUI-GON;What are you doing?;EXT. SLAVE QUARTERS - BALCONY - NIGHT;4;0;0;0;0;0;0;0;0;0;36
+466;QUI-GON;ANAKIN;Checking your blood for infections. Go on, you have a big day tomorrow. Goodnight.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;14;0;0;0;0;0;0;0;0;0;126
+467;QUI-GON;OBI-WAN;Obi-Wan;EXT. SLAVE QUARTERS - BALCONY - NIGHT;1;0;0;0;0;0;0;0;0;0;9
+468;OBI-WAN;QUI-GON;Yes, Master.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;2;0;0;0;0;0;0;0;0;0;18
+469;QUI-GON;OBI-WAN;Make an analysis of this blood sample I'm sending you.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;10;0;0;0;0;0;0;0;0;0;90
+470;OBI-WAN;QUI-GON;Wait a minute;EXT. SLAVE QUARTERS - BALCONY - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+471;QUI-GON;OBI-WAN;I need a midi-chlorian count.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;5;0;0;0;0;0;0;0;0;0;45
+472;OBI-WAN;QUI-GON;The reading is off the chart. Over 20,000. Even Master Yoda doesn't have a midi-chlorian count that high.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;19;0;0;0;0;0;0;0;0;0;171
+473;QUI-GON;OBI-WAN;No Jedi has.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+474;OBI-WAN;QUI-GON;What does it mean?;EXT. SLAVE QUARTERS - BALCONY - NIGHT;4;0;0;0;0;0;0;0;0;0;36
+475;QUI-GON;OBI-WAN;I'm not sure.;EXT. SLAVE QUARTERS - BALCONY - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+476;WATTO;QUI-GON;I want to see your spaceship the moment the race is over.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;12;0;0;0;0;0;0;0;0;0;108
+477;QUI-GON;WATTO;Patience, my blue friend. You'll have your winnings before the suns set, and we'll be far away from here.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;19;0;0;0;0;0;0;0;0;0;171
+478;WATTO;QUI-GON;Not if your ship belongs to me, I think I warn you, no funny business.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;15;0;0;0;0;0;0;0;0;0;135
+479;QUI-GON;WATTO;You don't think Anakin will win?;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;6;0;0;0;0;0;0;0;0;0;54
+480;WATTO;QUI-GON;Don't get me wrongo. I have great faith in the boy. He's a credit to your race, but Sebulba there is going to win, I think.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;26;0;0;0;0;0;0;0;0;0;234
+481;QUI-GON;WATTO;Why do you think that?;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;5;0;0;0;0;0;0;0;0;0;45
+482;WATTO;QUI-GON;He always wins. I'm betting heavily on Sebulba.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;8;0;0;0;0;0;0;0;0;0;72
+483;QUI-GON;WATTO;I'll take that bet.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+484;WATTO;QUI-GON;What?! What do you mean?;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;5;0;0;0;0;0;0;0;0;0;45
+485;QUI-GON;WATTO;I'll wager my new racing pod against say the boy and his mother.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;13;0;0;0;0;0;0;0;0;0;117
+486;WATTO;QUI-GON;A Pod for slaves. I don't think so well, poerhaps. Just one the mother, maybe the boy isn't for sale.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;20;0;0;0;0;0;0;0;0;0;180
+487;QUI-GON;WATTO;The boy is small, he can't be worth much.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;9;0;0;0;0;0;0;0;0;0;81
+488;QUI-GON;WATTO;For the fastest Pod ever built?!;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;6;0;0;0;0;0;0;0;0;0;54
+489;QUI-GON;WATTO;Both, or no bet.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+490;WATTO;QUI-GON;No Pod's worth two slaves not by a long shot one slave or nothing.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;14;0;0;0;0;0;0;0;0;0;126
+491;QUI-GON;WATTO;The boy, then;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;3;0;0;0;0;0;0;0;0;0;27
+492;WATTO;QUI-GON;We'll let fate decide. Blue it's the boy, red his mother. You won the small toss, outlander, but you won't win the race, so it makes little difference.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;28;0;0;0;0;0;0;0;0;0;252
+493;WATTO;ANAKIN;Bonapa keesa pateeso, o wanna meetee chobodd.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;7;0;0;0;0;0;0;0;0;0;63
+494;ANAKIN;QUI-GON;What did he mean by that?;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;6;0;0;0;0;0;0;0;0;0;54
+495;QUI-GON;ANAKIN;I'll tell you later.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+496;ARTOO;THREEPIO;beeps;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+497;THREEPIO;ARTOO;Oh my! Space travel sounds rather perilous.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;7;0;0;0;0;0;0;0;0;0;63
+498;ARTOO;THREEPIO;beeps;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+499;THREEPIO;ARTOO;I can assure you they will never get me onto one of those dreadful starships!;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;15;0;0;0;0;0;0;0;0;0;135
+500;KITSTER;ANAKIN;This is so wizard! I'm sure you'll do it this time, Annie.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;12;0;0;0;0;0;0;0;0;0;108
+501;PADME;KITSTER;Do what?;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;2;0;0;0;0;0;0;0;0;0;18
+502;KITSTER;PADME;Finish the race, of course!;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;5;0;0;0;0;0;0;0;0;0;45
+503;PADME;ANAKIN;You've never won a race?;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;5;0;0;0;0;0;0;0;0;0;45
+504;ANAKIN;PADME;Well not exactly;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;3;0;0;0;0;0;0;0;0;0;27
+505;PADME;ANAKIN;Not even finished?!;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;3;0;0;0;0;0;0;0;0;0;27
+506;ANAKIN;PADME;but Kitster's right, I will this time.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;7;0;0;0;0;0;0;0;0;0;63
+507;QUI-GON;PADME;Of course you will.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+508;BEED;PUBLIC;Toogi! Toogie! Toong mee cha kulkah du Boonta magi! tah oos azalus ooval Poddraces.;EXT. MOS ESPA - DESERT RACE ARENA - DAY;14;0;0;0;0;0;0;0;0;0;126
+509;FODE;PUBLIC;That's absolutely right. And a big turnout here, from all corners of the Outer Rim territories. I see the contestants are making their way out onto the starting grid.;EXT. MOS ESPA - DESERT RACE ARENA - DAY;29;0;0;0;0;0;0;0;0;0;261
+510;BEED;PUBLIC;La Yma beestoo;EXT. MOS ESPA - DESERT RACE ARENA - DAY;3;0;0;0;0;0;0;0;0;0;27
+511;FODE;PUBLIC;I see Ben Quadinaros from the Tund system.;EXT. MOS ESPA - DESERT RACE ARENA - DAY;8;0;0;0;0;0;0;0;0;0;72
+512;BEED;PUBLIC;eh Gasgano doowa newpa Ord Petrovia!;EXT. MOS ESPA - DESERT RACE ARENA - DAY;6;0;0;0;0;0;0;0;0;0;54
+513;FODE;PUBLIC;Two time winner, Boles Roor;EXT. MOS ESPA - DESERT RACE ARENA - DAY;5;0;0;0;0;0;0;0;0;0;45
+514;BEED;PUBLIC;Poo tula moosta, woe grane champio Sebulba du Pixelito! Splastyleeya bookie ookie!;EXT. MOS ESPA - DESERT RACE ARENA - DAY;12;0;0;0;0;0;0;0;0;0;108
+515;FODE;PUBLIC;And a late entry, Anakin Skywalker, a local boy.;EXT. MOS ESPA - DESERT RACE ARENA - DAY;9;0;0;0;0;0;0;0;0;0;81
+516;BEED;PUBLIC;Wampa peedunkee unko;EXT. MOS ESPA - DESERT RACE ARENA - DAY;3;0;0;0;0;0;0;0;0;0;27
+517;FODE;PUBLIC;I see the flaggers are moving onto the track.;EXT. MOS ESPA - DESERT RACE ARENA - DAY;9;0;0;0;0;0;0;0;0;0;81
+518;SHMI;ANAKIN;Be safe.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;2;0;0;0;0;0;0;0;0;0;18
+519;ANAKIN;SHMI;I will, Mom. I promise.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;5;0;0;0;0;0;0;0;0;0;45
+520;SEBULBA;ANAKIN;Bazda wahota, shag. Dobiella Nok. Yoka to Bantha poodoo.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;9;0;0;0;0;0;0;0;0;0;81
+521;ANAKIN;SEBULBA;Cha skrundee da pat, sleemo.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;5;0;0;0;0;0;0;0;0;0;45
+522;JABBA;RACERS;Ka bazza kundee hodrudda!;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;4;0;0;0;0;0;0;0;0;0;36
+523;QUI-GON;ANAKIN;Are you all set, Annie?;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;5;0;0;0;0;0;0;0;0;0;45
+524;ANAKIN;QUI-GON;Yes.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;1;0;0;0;0;0;0;0;0;0;9
+525;QUI-GON;ANAKIN;Remember,concentrate on the moment. Feel. Don't think. Trust your instincts.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;11;0;0;0;0;0;0;0;0;0;99
+526;ANAKIN;QUI-GON;Okay.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;1;0;0;0;0;0;0;0;0;0;9
+527;QUI-GON;ANAKIN;May the Force be with you.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;6;0;0;0;0;0;0;0;0;0;54
+528;BEED;PUBLIC;O grandio lust, Jabba Du Hutt, amu intoe tah parena.;EXT. MOS ESPA - ARENA - ROYAL BOX - DAY;10;0;0;0;0;0;0;0;0;0;90
+529;JABBA;PUBLIC;Chowbaso! Tam ka chee Boonta rulee ya, kee madda hodrudda du wundee.;EXT. MOS ESPA - ARENA - ROYAL BOX - DAY;12;0;0;0;0;0;0;0;0;0;108
+530;BEED;PUBLIC;Ya pawa culka doe rundee!;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;5;0;0;0;0;0;0;0;0;0;45
+531;FODE;PUBLIC;Hey, it looks like they're clearing the grid.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;8;0;0;0;0;0;0;0;0;0;72
+532;SHMI;QUI-GON;Is he nervous?;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;3;0;0;0;0;0;0;0;0;0;27
+533;QUI-GON;SHMI;He's fine.;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;2;0;0;0;0;0;0;0;0;0;18
+534;PADME;QUI-GON;You Jedi are far too reckless. The Queen;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;8;0;0;0;0;0;0;0;0;0;72
+535;QUI-GON;PADME;The Queen trusts my judgment, young handmaiden. You should too.;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;10;0;0;0;0;0;0;0;0;0;90
+536;PADME;QUI-GON;You assume too much.;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;4;0;0;0;0;0;0;0;0;0;36
+537;FODE;RACERS;Start your engines.;EXT. MOS ESPA - ARENA ANNOUNCER'S BOX - DAY;3;0;0;0;0;0;0;0;0;0;27
+538;BEED;PUBLIC;An dare ovv!;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;3;0;0;0;0;0;0;0;0;0;27
+539;FODE;PUBLIC;Oh wait. Little Skywalker has stalled.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;6;0;0;0;0;0;0;0;0;0;54
+540;FODE;PUBLIC;And there goes Skywalker He'll be hard pressed to catch up with the leaders today.;EXT. MOS ESPA - ARENA - STARTING GRID - DAY;15;0;0;0;0;0;0;0;0;0;135
+541;JAR JAR;ANAKIN;Come on, Ani!;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;3;0;0;0;0;0;0;0;0;0;27
+542;JAR JAR;ANAKIN;Careful, Ani. Careful, Ani!;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;4;0;0;0;0;0;0;0;0;0;36
+543;FODE;PUBLIC;Looks like a few Tusken Raiders have camped out on the canyon dune turn.;EXT. MOS ESPA - RACETRACK - DAY;14;0;0;0;0;0;0;0;0;0;126
+544;FODE;PUBLIC;There goes Quadinaros' power couplings.;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;5;0;0;0;0;0;0;0;0;0;45
+545;BEED;PUBLIC;Sebulba! Ka pa me cheespa wata!;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;6;0;0;0;0;0;0;0;0;0;54
+546;THREEPIO;ARTOO;Where is Mister Anakin ?;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;5;0;0;0;0;0;0;0;0;0;45
+547;ARTOO;THREEPIO;beeps;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;1;0;0;0;0;0;0;0;0;0;9
+548;PADME;QUI-GON;Here he comes!;EXT. MOS ESPA - ARENA - VIEWING PLATFORM - DAY;3;0;0;0;0;0;0;0;0;0;27
+549;ARTOO;THREEPIO;beeps;EXT. MOS ESPA - ARENA - PIT AREA - DAY;1;0;0;0;0;0;0;0;0;0;9
+550;THREEPIO;ARTOO;He has to complete two more circuits? Oh dear!;EXT. MOS ESPA - ARENA - PIT AREA - DAY;9;0;0;0;0;0;0;0;0;0;81
+551;FODE;PUBLIC;It looks like Skywalker is moving up through the field. He's in;EXT. MOS ESPA - RACETRACK - DAY;12;0;0;0;0;0;0;0;0;0;108
+552;BEED;PUBLIC;Steeth pa nagoola!;EXT. MOS ESPA - RACETRACK - DAY;3;0;0;0;0;0;0;0;0;0;27
+553;BEED;PUBLIC;Ody Mandrell! Coona wa wunda dunko!;EXT. MOS ESPA - RACETRACK - DAY;6;0;0;0;0;0;0;0;0;0;54
+554;ODY;DROIDS;Droids!;EXT. MOS ESPA - RACETRACK - DAY;1;0;0;0;0;0;0;0;0;0;9
+555;FODE;PUBLIC;At the start of the third and final lap, Sebulba is in the lead, closely followed by Skywalker;EXT. MOS ESPA - RACETRACK - DAY;18;0;0;0;0;0;0;0;0;0;162
+556;FODE;PUBLIC;Skywalker is forced onto the service ramp!;EXT. MOS ESPA - RACETRACK - DAY;7;0;0;0;0;0;0;0;0;0;63
+557;BEED;PUBLIC;Oh noah!;EXT. MOS ESPA - RACETRACK - DAY;2;0;0;0;0;0;0;0;0;0;18
+558;FODE;PUBLIC;Amazing a controlled thrust and he's back on course! What a move!;EXT. MOS ESPA - RACETRACK - DAY;12;0;0;0;0;0;0;0;0;0;108
+559;FODE;PUBLIC;He's catching Sebulba.;EXT. MOS ESPA - RACETRACK - DAY;3;0;0;0;0;0;0;0;0;0;27
+560;BEED;PUBLIC;Inkabunga.;EXT. MOS ESPA - RACETRACK - DAY;1;0;0;0;0;0;0;0;0;0;9
+561;FODE;PUBLIC;That little human being is out of his mind.;EXT. MOS ESPA - RACETRACK - DAY;9;0;0;0;0;0;0;0;0;0;81
+562;BEED;PUBLIC;Punda tah punda!;EXT. MOS ESPA - RACETRACK - DAY;3;0;0;0;0;0;0;0;0;0;27
+563;FODE;PUBLIC;They're side by side!;EXT. MOS ESPA - RACETRACK - DAY;4;0;0;0;0;0;0;0;0;0;36
+564;BEED;PUBLIC;Bongo du bongu!;EXT. MOS ESPA - RACETRACK - DAY;3;0;0;0;0;0;0;0;0;0;27
+565;FODE;PUBLIC;It's Skywalker! The crowd are going nuts! Oh Ah Oh Ah;EXT. MOS ESPA - RACETRACK - DAY;11;0;0;0;0;0;0;0;0;0;99
+566;ARTOO;THREEPIO;beeps;EXT. MOS ESPA - ARENA - PIT AREA - DAY;1;0;0;0;0;0;0;0;0;0;9
+567;THREEPIO;ARTOO;I can't believe it.;EXT. MOS ESPA - ARENA - PIT AREA - DAY;4;0;0;0;0;0;0;0;0;0;36
+568;JAR JAR;ANAKIN;Yay, Ani!;EXT. MOS ESPA - ARENA - PIT AREA - DAY;2;0;0;0;0;0;0;0;0;0;18
+569;ANAKIN;SHMI;Mom, I did it! Yay!;EXT. MOS ESPA - ARENA - PIT AREA - DAY;5;0;0;0;0;0;0;0;0;0;45
+570;JAR JAR;ANAKIN;Good going, Ani!;EXT. MOS ESPA - ARENA - PIT AREA - DAY;3;0;0;0;0;0;0;0;0;0;27
+571;PADME;ANAKIN;We owe you everything.;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+572;SHMI;ANAKIN;It's so wonderful, Annie. You have brought hope to those who have none. I'm so very proud of you;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;19;0;0;0;0;0;0;0;0;0;171
+573;ANAKIN;SHMI;Ah, gee enough of this;INT. MOS ESPA - ARENA - MAIN HANGER - DAY;5;0;0;0;0;0;0;0;0;0;45
+574;WATTO;QUI-GON;You! You swindled me! You knew the boy was going to win! Somehow you knew it! I lost everything.;INT. MOS ESPA - ARENA - PRIVATE BOX - DAY;19;0;0;0;0;0;0;0;0;0;171
+575;QUI-GON;WATTO;Whenever you gamble, my friend, eventually you'll lose. Bring the parts to the main hanger. I'll come by your shop later so you can release the boy.;INT. MOS ESPA - ARENA - PRIVATE BOX - DAY;27;0;0;0;0;0;0;0;0;0;243
+576;WATTO;QUI-GON;You can't have him! It wasn't a fair bet!;INT. MOS ESPA - ARENA - PRIVATE BOX - DAY;9;0;0;0;0;0;0;0;0;0;81
+577;QUI-GON;WATTO;Would you like to discuss it with the Hutts I'm sure they can settle this.;INT. MOS ESPA - ARENA - PRIVATE BOX - DAY;15;0;0;0;0;0;0;0;0;0;135
+578;WATTO;QUI-GON;No, no! I want no more of your tricks! Take him!;INT. MOS ESPA - ARENA - PRIVATE BOX - DAY;11;0;0;0;0;0;0;0;0;0;99
+579;QUI-GON;OBI-WAN;I'm going back some unfinished business. I won't be long.;EXT. TATOOINE - DESERT - NABOO SPACECRAFT - DAY;10;0;0;0;0;0;0;0;0;0;90
+580;OBI-WAN;QUI-GON;Why do I sense we've picked up another pathetic life form?;EXT. TATOOINE - DESERT - NABOO SPACECRAFT - DAY;11;0;0;0;0;0;0;0;0;0;99
+581;QUI-GON;OBI-WAN;It's the boy who's responsible for getting us these parts. Start getting this hyperdrive generator installed.;EXT. TATOOINE - DESERT - NABOO SPACECRAFT - DAY;16;0;0;0;0;0;0;0;0;0;144
+582;OBI-WAN;QUI-GON;Yes, Master. That shouldn't take long.;EXT. TATOOINE - DESERT - NABOO SPACECRAFT - DAY;6;0;0;0;0;0;0;0;0;0;54
+583;QUI-GON;ANAKIN;These are yours. We sold the Pod.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+584;ANAKIN;QUI-GON;Yes!;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+585;ANAKIN;SHMI;Mom, we sold the pod! Look at all the money we have!;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+586;SHMI;ANAKIN;Oh, my goodness, That's wonderful.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;5;0;0;0;0;0;0;0;0;0;45
+587;QUI-GON;SHMI;And Anakin has been freed.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;5;0;0;0;0;0;0;0;0;0;45
+588;ANAKIN;QUI-GON;What?!?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+589;QUI-GON;ANAKIN;You're no longer a slave.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;5;0;0;0;0;0;0;0;0;0;45
+590;ANAKIN;SHMI;Did you hear that, Mom?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;5;0;0;0;0;0;0;0;0;0;45
+591;SHMI;ANAKIN;You are free.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;3;0;0;0;0;0;0;0;0;0;27
+592;SHMI;QUI-GON;Will you take him with you? Is he to become a Jedi?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+593;QUI-GON;SHMI;Our meeting was not a coincidence. Nothing happens by accident. You are strong with the Force, but you may not be accepted by the Council.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;25;0;0;0;0;0;0;0;0;0;225
+594;ANAKIN;QUI-GON;A Jedi! Mighty blasters, you mean I get to go with you in your starship and everything?!;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;17;0;0;0;0;0;0;0;0;0;153
+595;QUI-GON;ANAKIN;Anakin, training to be a Jedi will not be a easy challenge. And if you succeed, it will be a hard life.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;22;0;0;0;0;0;0;0;0;0;198
+596;ANAKIN;QUI-GON;But it's what I want. What I've always dreamed about.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;10;0;0;0;0;0;0;0;0;0;90
+597;ANAKIN;SHMI;Can I go, Mom?!;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;4;0;0;0;0;0;0;0;0;0;36
+598;SHMI;ANAKIN;This path has been placed for you, Annie. The choice to take it is yours alone.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;16;0;0;0;0;0;0;0;0;0;144
+599;ANAKIN;SHMI;I want to go.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;4;0;0;0;0;0;0;0;0;0;36
+600;QUI-GON;ANAKIN;Then, pack your things. We haven't much time.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;8;0;0;0;0;0;0;0;0;0;72
+601;ANAKIN;QUI-GON;Yippee!;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+602;ANAKIN;QUI-GON;What about Mom? Is she free too? You're coming, aren't you, Mom;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+603;QUI-GON;ANAKIN;I tried to free your mother, Annie, but Watto wouldn't have it.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+604;ANAKIN;SHMI;You're coming with us, aren't you, Mom?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+605;SHMI;ANAKIN;Son, my place is here. My future is here. It is time for you to let go to let go of me. I cannot go with you.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;27;0;0;0;0;0;0;0;0;0;243
+606;ANAKIN;SHMI;I want to stay with you. I don't want things to change.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;12;0;0;0;0;0;0;0;0;0;108
+607;SHMI;ANAKIN;You can't stop change any more than you can stop the suns from setting. I love you. Now hurry.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;19;0;0;0;0;0;0;0;0;0;171
+608;SHMI;QUI-GON;Thank you.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;2;0;0;0;0;0;0;0;0;0;18
+609;QUI-GON;SHMI;I will watch after him. You have my word. Will you be all right?;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;14;0;0;0;0;0;0;0;0;0;126
+610;SHMI;QUI-GON;Yeah.;INT. ANAKIN'S HOVEL - MAIN ROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+611;ANAKIN;THREEPIO;Well, Threepio, I'm free and I'm going away in a starship;INT. ANAKIN'S HOVEL - SECOND ROOM - DAY;11;0;0;0;0;0;0;0;0;0;99
+612;THREEPIO;ANAKIN;Master, Annie, you are my maker, and I wish you well. Although I'd like it better if I were a little less naked.;INT. ANAKIN'S HOVEL - SECOND ROOM - DAY;23;0;0;0;0;0;0;0;0;0;207
+613;ANAKIN;THREEPIO;I'm sorry I wasn't able to finish you, Threepio give you coverings and all I'm going to miss working on you. You've been a great pal. I'll make sure Mom doesn't sell you or anything.;INT. ANAKIN'S HOVEL - SECOND ROOM - DAY;35;0;0;0;0;0;0;0;0;0;315
+614;THREEPIO;ANAKIN;Sell me?!?;INT. ANAKIN'S HOVEL - SECOND ROOM - DAY;2;0;0;0;0;0;0;0;0;0;18
+615;ANAKIN;THREEPIO;Bye.;INT. ANAKIN'S HOVEL - SECOND ROOM - DAY;1;0;0;0;0;0;0;0;0;0;9
+616;THREEPIO;ANAKIN;Oh, my.;INT. ANAKIN'S HOVEL - SECOND ROOM - DAY;2;0;0;0;0;0;0;0;0;0;18
+617;ANAKIN;SHMI;I can't do it, Mom. I just can't.;EXT. MOS ESPA - STREET - SLAVE QUARTERS - DAY;8;0;0;0;0;0;0;0;0;0;72
+618;SHMI;ANAKIN;Annie;EXT. MOS ESPA - STREET - SLAVE QUARTERS - DAY;1;0;0;0;0;0;0;0;0;0;9
+619;ANAKIN;SHMI;Will I ever see you again?;EXT. MOS ESPA - STREET - SLAVE QUARTERS - DAY;6;0;0;0;0;0;0;0;0;0;54
+620;SHMI;ANAKIN;What does your heart tell you?;EXT. MOS ESPA - STREET - SLAVE QUARTERS - DAY;6;0;0;0;0;0;0;0;0;0;54
+621;ANAKIN;SHMI;I hope so yes I guess.;EXT. MOS ESPA - STREET - SLAVE QUARTERS - DAY;6;0;0;0;0;0;0;0;0;0;54
+622;SHMI;ANAKIN;Then we will see each other again.;EXT. MOS ESPA - STREET - SLAVE QUARTERS - DAY;7;0;0;0;0;0;0;0;0;0;63
+623;ANAKIN;SHMI;I will become a Jedi and I will come back and free you, Mom I promise.;EXT. MOS ESPA - STREET - SLAVE QUARTERS - DAY;16;0;0;0;0;0;0;0;0;0;144
+624;SHMI;ANAKIN;No matter where you are, my love will be with you. Now be brave, and don't look back don't look back.;EXT. MOS ESPA - STREET - SLAVE QUARTERS - DAY;21;0;0;0;0;0;0;0;0;0;189
+625;ANAKIN;QUI-GON;Master Qui-Gon,sir, wait!;EXT. TATOOINE - DESERT - NABOO SPACECRAFT - DAY;4;0;0;0;0;0;0;0;0;0;36
+626;QUI-GON;ANAKIN;Anakin, drop!;EXT. TATOOINE - DESERT - NABOO SPACECRAFT - DAY;2;0;0;0;0;0;0;0;0;0;18
+627;QUI-GON;ANAKIN;Annie, get to the ship! Take off! Go! Go!;EXT. TATOOINE - DESERT - NABOO SPACECRAFT - DAY;9;0;0;0;0;0;0;0;0;0;81
+628;CAPT. PANAKA;OBI-WAN;Qui-Gon's in trouble.;INT. NABOO SPACECRAFT - HALLWAY;3;0;0;0;0;0;0;0;0;0;27
+629;OBI-WAN;RIC OLIE;Take off now! Over there. Fly low.;INT. NABOO SPACECRAFT - HALLWAY;7;0;0;0;0;0;0;0;0;0;63
+630;ANAKIN;QUI-GON;Are you all right?;INT. NABOO SPACECRAFT - HALLWAY;4;0;0;0;0;0;0;0;0;0;36
+631;QUI-GON;ANAKIN;I think so.;INT. NABOO SPACECRAFT - HALLWAY;3;0;0;0;0;0;0;0;0;0;27
+632;OBI-WAN;QUI-GON;What was it?;INT. NABOO SPACECRAFT - HALLWAY;3;0;0;0;0;0;0;0;0;0;27
+633;QUI-GON;OBI-WAN;I don't know but he was well trained in the Jedi arts. My guess is he was after the Queen;INT. NABOO SPACECRAFT - HALLWAY;20;0;0;0;0;0;0;0;0;0;180
+634;ANAKIN;QUI-GON;What are we gonna do about it?;INT. NABOO SPACECRAFT - HALLWAY;7;0;0;0;0;0;0;0;0;0;63
+635;QUI-GON;ANAKIN;We will be patient. Anakin Skywalker, meet Obi-Wan Kenobi.;INT. NABOO SPACECRAFT - HALLWAY;9;0;0;0;0;0;0;0;0;0;81
+636;ANAKIN;OBI-WAN;Pleased to meet you. Wow! You're a Jedi too? Pleased to meet you.;INT. NABOO SPACECRAFT - HALLWAY;13;0;0;0;0;0;0;0;0;0;117
+637;NUTE;BIBBLE;Your Queen is lost, your people are starving, and you, Governor, are going to die, much sooner than your people, I'm afraid.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;22;0;0;0;0;0;0;0;0;0;198
+638;BIBBLE;NUTE;This invasion will gain you nothing. We're a democracy. The people have decided;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;13;0;0;0;0;0;0;0;0;0;117
+639;NUTE;OOM-9;Take him away.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+640;OOM-9;NUTE;My troops are in position to begin searching the swamps for these rumored underwater villages. They will not stay hidden for long.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;22;0;0;0;0;0;0;0;0;0;198
+641;BIBBLE;PADME;The death toll is catastrophic. We must bow to their wishes. You must contact me.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;15;0;0;0;0;0;0;0;0;0;135
+642;PADME;ANAKIN;Are you all right?;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;4;0;0;0;0;0;0;0;0;0;36
+643;ANAKIN;PADME;It's very cold.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+644;PADME;ANAKIN;You're from a warm planet, Annie. Too warm for my taste. Space is cold.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;14;0;0;0;0;0;0;0;0;0;126
+645;ANAKIN;PADME;You seem sad.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+646;PADME;ANAKIN;The Queen is worried. Her people are suffering dying. She must convince the Senate to intervene, or I'm not sure what will happen.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;23;0;0;0;0;0;0;0;0;0;207
+647;ANAKIN;PADME;I'm I'm not sure what's going to happen to me. I dunno if I'll ever see you again. I made this for you. Sou you'd remember me. I carved it out of a japor snippet It will bring you good fortune.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;41;0;0;0;0;0;0;0;0;0;369
+648;PADME;ANAKIN;It's beautiful, but I don't need this to remember you. Many things will change when we reach the capital, Annie. My caring for you will always remain.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;27;0;0;0;0;0;0;0;0;0;243
+649;ANAKIN;PADME;I care for you too. Only I miss;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;8;0;0;0;0;0;0;0;0;0;72
+650;PADME;ANAKIN;You miss your mother.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;4;0;0;0;0;0;0;0;0;0;36
+651;RIC OLIE;ANAKIN;Coruscant the capital of the Republic the entire planet is one big city. There's Chancellor Valorum's shuttle. And look over there. Senator Palpatine is waiting for us.;INT. NABOO SPACECRAFT - COCKPIT;27;0;0;0;0;0;0;0;0;0;243
+652;PALPATINE;AMIDALA;It is a great gift to see you alive, Your Majesty. With the communications breakdown, we've been very concerned. I'm anxious to hear your report on the situation. May I present Supreme Chancellor Valorum.;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;34;0;0;0;0;0;0;0;0;0;306
+653;VALORUM;AMIDALA;Welcome, Your Highness. It is an honor to finally meet you in person.;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;13;0;0;0;0;0;0;0;0;0;117
+654;AMIDALA;VALORUM;Thank you, Supreme Chancellor.;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;4;0;0;0;0;0;0;0;0;0;36
+655;VALORUM;AMIDALA;I must relay to you how distressed everyone is over the currant situation. I've called for a special session of the Senate to hear your position.;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;26;0;0;0;0;0;0;0;0;0;234
+656;AMIDALA;VALORUM;I am grateful for your concern, Chancellor.;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;7;0;0;0;0;0;0;0;0;0;63
+657;PALPATINE;AMIDALA;There is a question of procedure, but I feel confident we can overcome it;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;14;0;0;0;0;0;0;0;0;0;126
+658;QUI-GON;VALORUM;I must speak with the Jedi Council immediately, Your Honor. The situation has become more complicated.;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;16;0;0;0;0;0;0;0;0;0;144
+659;PADME;ANAKIN;Ani, come on.;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;3;0;0;0;0;0;0;0;0;0;27
+660;JAR JAR;ANAKIN;Da queen's a bein grossly nice, mesa tinks. Pitty hot.;EXT. CORUSCANT - SENATE LANDING PLATFORM - DAY;10;0;0;0;0;0;0;0;0;0;90
+661;PALPATINE;AMIDALA;the Republic is not what it once was. The Senate is full of greedy, squabbling delegates who are only looking out for themselves and their home systems. There is no interest in the common good no civility, only politics its disgusting. I must be frank, Your Majesty, there is little chance the Senate will act on the invasion.;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;58;0;0;0;0;0;0;0;0;0;522
+662;AMIDALA;PALPATINE;Chancellor Valorum seems to think there is hope.;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;8;0;0;0;0;0;0;0;0;0;72
+663;PALPATINE;AMIDALA;If I may say so, Your Majesty, the Chancellor has little real power he is mired down by baseless accusations of corruption. A manufactured scandal surrounds him. The bureaucrats are in charge now.;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;33;0;0;0;0;0;0;0;0;0;297
+664;AMIDALA;PALPATINE;What options do we have?;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;5;0;0;0;0;0;0;0;0;0;45
+665;PALPATINE;AMIDALA;Our best choice would be to push for the election of a stronger Supreme Chancellor. One who will take control of the bureaucrats, enforces the laws, and give us justice. You could call for a vote of no confidence in Chancellor Valorum.;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;42;0;0;0;0;0;0;0;0;0;378
+666;AMIDALA;PALPATINE;He has been our strongest supporter.;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;6;0;0;0;0;0;0;0;0;0;54
+667;PALPATINE;AMIDALA;Our only other choice would to be to submit a plea to the courts;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;14;0;0;0;0;0;0;0;0;0;126
+668;AMIDALA;PALPATINE;There's no time for that. The courts take even longer to decide things than the Senate. Our people are dying, Senator more and more each day. We must do something quickly to stop the Federation.;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;35;0;0;0;0;0;0;0;0;0;315
+669;PALPATINE;AMIDALA;To be realistic, Your Highness, I'd say we're going to have to accept Federation control for the time being.;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;19;0;0;0;0;0;0;0;0;0;171
+670;AMIDALA;PALPATINE;There is something I cannot do.;INT. PALPATINE'S QUARTERS - LIVING AREA - DAY;6;0;0;0;0;0;0;0;0;0;54
+671;QUI-GON;MACE WINDU;He was trained in the Jedi arts. My only conclusion can be that it was a Sith Lord.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;18;0;0;0;0;0;0;0;0;0;162
+672;KI-ADI-MUNDI;QUI-GON;Impossible! The Sith have been extinct for a millennium.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;9;0;0;0;0;0;0;0;0;0;81
+673;MACE WINDU;KI-ADI-MUNDI;I do not believe they could have returned without us knowing.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;11;0;0;0;0;0;0;0;0;0;99
+674;YODA;MACE WINDU;Hard to see, the dark side is. Discover who this assassin is, we must.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;14;0;0;0;0;0;0;0;0;0;126
+675;KI-ADI-MUNDI;QUI-GON;I sense he will reveal himself again.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;7;0;0;0;0;0;0;0;0;0;63
+676;MACE WINDU;QUI-GON;We will use all our resources here to unravel this mystery and discover the identity of your attacker May the Force be with you.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;24;0;0;0;0;0;0;0;0;0;216
+677;YODA;QUI-GON;Master Qui-Gon more to say have you?;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;7;0;0;0;0;0;0;0;0;0;63
+678;QUI-GON;YODA;With your permission, my Master. I have encountered a vergence in the Force.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;13;0;0;0;0;0;0;0;0;0;117
+679;YODA;QUI-GON;A vergence, you say?;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;4;0;0;0;0;0;0;0;0;0;36
+680;MACE WINDU;QUI-GON;Located around a person?;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;4;0;0;0;0;0;0;0;0;0;36
+681;QUI-GON;YODA;A boy his cells have the highest concentration of midi-chlorians I have seen in a life form. It is possible he was conceived by the midi-chlorians.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;26;0;0;0;0;0;0;0;0;0;234
+682;MACE WINDU;QUI-GON;You're referring to the prophesy of the one who will bring balance to the Force you believe it's this boy?;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;20;0;0;0;0;0;0;0;0;0;180
+683;QUI-GON;MACE WINDU;I don't presume;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;3;0;0;0;0;0;0;0;0;0;27
+684;YODA;QUI-GON;But you do! Revealed your opinion is.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;7;0;0;0;0;0;0;0;0;0;63
+685;QUI-GON;YODA;I request the boy be tested.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;6;0;0;0;0;0;0;0;0;0;54
+686;YODA;QUI-GON;Trained as a Jedi, you request for him?;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;8;0;0;0;0;0;0;0;0;0;72
+687;QUI-GON;YODA;Finding him was the will of the Force I have no doubt of that.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;14;0;0;0;0;0;0;0;0;0;126
+688;MACE WINDU;QUI-GON;Bring him before us, then.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY;5;0;0;0;0;0;0;0;0;0;45
+689;GUARD;RABE;The boy is here to see Padme.;INT. QUEENS QUARTERS - CORUSCANT - DAY;7;0;0;0;0;0;0;0;0;0;63
+690;RABE;GUARD;Send him in.;INT. QUEENS QUARTERS - CORUSCANT - DAY;3;0;0;0;0;0;0;0;0;0;27
+691;RABE;ANAKIN;I'm sorry, Annie. Padme is not here right now.;INT. QUEENS QUARTERS - CORUSCANT - DAY;9;0;0;0;0;0;0;0;0;0;81
+692;AMIDALA;RABE;Who is it?;INT. QUEENS QUARTERS - CORUSCANT - DAY;3;0;0;0;0;0;0;0;0;0;27
+693;RABE;AMIDALA;Anakin Skywalker, to see Padme, Your Highness.;INT. QUEENS QUARTERS - CORUSCANT - DAY;7;0;0;0;0;0;0;0;0;0;63
+694;AMIDALA;ANAKIN;I've sent Padme on an errand.;INT. QUEENS QUARTERS - CORUSCANT - DAY;6;0;0;0;0;0;0;0;0;0;54
+695;ANAKIN;AMIDALA;I'm going to the Jedi temple to start my training, I hope. I may not see her again and I just wanted to say goodbye.;INT. QUEENS QUARTERS - CORUSCANT - DAY;25;0;0;0;0;0;0;0;0;0;225
+696;AMIDALA;ANAKIN;We will tell her for you. We're sure her heart goes with you.;INT. QUEENS QUARTERS - CORUSCANT - DAY;13;0;0;0;0;0;0;0;0;0;117
+697;ANAKIN;AMIDALA;Thank you, Your Highness. I'm sorry to have disturbed you.;INT. QUEENS QUARTERS - CORUSCANT - DAY;10;0;0;0;0;0;0;0;0;0;90
+698;PALPATINE;AMIDALA;If the Federation moves to defer the motion Your Majesty, I beg of you to ask for a resolution to end this congressional session.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;23;0;0;0;0;0;0;0;0;0;207
+699;AMIDALA;PALPATINE;I wish I had your confidence in this, Senator.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;9;0;0;0;0;0;0;0;0;0;81
+700;PALPATINE;AMIDALA;You must force a new election for Supreme Chancellor I promise you there are many who will support us it is our best chance Your Majesty, our only, chance.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;29;0;0;0;0;0;0;0;0;0;261
+701;AMIDALA;PALPATINE;You truly believe Chancellor Valorum will not bring our motion to a vote?;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;13;0;0;0;0;0;0;0;0;0;117
+702;PALPATINE;AMIDALA;He is distracted he is afraid. He will be of no help.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;12;0;0;0;0;0;0;0;0;0;108
+703;VALORUM;SENATE;The Chair recognizes the Senator from the sovereign system of Naboo.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;11;0;0;0;0;0;0;0;0;0;99
+704;PALPATINE;SENATE;Supreme Chancellor, delegates of the Senate. A tragedy has occurred on our peaceful system of Naboo. We have become caught in a dispute you're all well aware of, which began right here with the taxation of trade routes, and has now engulfed our entire planet in the oppression of the Trade Federation.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;52;0;0;0;0;0;0;0;0;0;468
+705;LOTT DOD;SENATE;This is outrageous! I object to the Senator's statements!;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;9;0;0;0;0;0;0;0;0;0;81
+706;VALORUM;LOTT DOD;The Chair does not recognize the Senator from the Trade Federation at this time. Please return to your station.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;19;0;0;0;0;0;0;0;0;0;171
+707;PALPATINE;VALORUM;To state our allegations, I present Queen Amidala, the recently elected ruler of Naboo, to speak on our behalf.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;19;0;0;0;0;0;0;0;0;0;171
+708;AMIDALA;SENATE;Honorable representatives of the Republic, distinguished delegates, and Your Honor Supreme Chancellor Valorum, I come to you under the gravest of circumstances. The Naboo system has been invaded by force. Invaded against all the laws of the Republic by the Droid Armies of the Trade;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;45;0;0;0;0;0;0;0;0;0;405
+709;LOTT DOD;SENATE;I object! There is no proof. This is incredible. We recommend a commission be sent to Naboo to ascertain the truth.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;21;0;0;0;0;0;0;0;0;0;189
+710;AKS MOE;SENATE;The Congress of Malastare concurs with the honorable delegate from the Trade Federation. A commission must be appointed that is the law.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;22;0;0;0;0;0;0;0;0;0;198
+711;VALORUM;SENATE;The point;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;2;0;0;0;0;0;0;0;0;0;18
+712;PALPATINE;AMIDALA;Enter the bureaucrats, the true rulers of the Republic, and on the payroll of the Trade Federation, I might add. This is where Chancellor Valorum's strength will disappear.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;28;0;0;0;0;0;0;0;0;0;252
+713;VALORUM;AMIDALA;The point is conceded Section 523A take precedence here. Queen Amidala of the Naboo, will you defer your motion to allow a commission to explore the validity of your accusations?;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;30;0;0;0;0;0;0;0;0;0;270
+714;AMIDALA;VALORUM;I will not defer. I have come before you to resolve this attack on our sovereignty now. I was not elected to watch my people suffer and die while you discuss this invasion in a committee. If this body is not capable of action, I suggest new leadership is needed. I move for a vote of no confidence in Chancellor Valorum's leadership.;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;62;0;0;0;0;0;0;0;0;0;558
+715;MAS AMEDDA;SENATE;Order! We shall have order;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;5;0;0;0;0;0;0;0;0;0;45
+716;PALPATINE;AMIDALA;You see, Your Majesty, the tide is with us Valorum will be voted out, I assure you, and they will elect in a new Chancellor, a strong Chancellor, one who will not let our tragedy continue;INT. MAIN ROTUNDA - GALACTIC SENATE - DAY;36;0;0;0;0;0;0;0;0;0;324
+717;OBI-WAN;QUI-GON;The boy will not pass the Council's tests, Master, and you know it. He is far too old.;EXT. PALACE OF THE JEDI - BALCONY - SUNSET;18;0;0;0;0;0;0;0;0;0;162
+718;QUI-GON;OBI-WAN;Anakin will become A Jedi I promise you.;EXT. PALACE OF THE JEDI - BALCONY - SUNSET;8;0;0;0;0;0;0;0;0;0;72
+719;OBI-WAN;QUI-GON;Don't defy the Council, Master not again.;EXT. PALACE OF THE JEDI - BALCONY - SUNSET;7;0;0;0;0;0;0;0;0;0;63
+720;QUI-GON;OBI-WAN;I will do what I must.;EXT. PALACE OF THE JEDI - BALCONY - SUNSET;6;0;0;0;0;0;0;0;0;0;54
+721;OBI-WAN;QUI-GON;Master, you could be sitting on the Council by now if you would just follow the code. They will not go along with you this time.;EXT. PALACE OF THE JEDI - BALCONY - SUNSET;26;0;0;0;0;0;0;0;0;0;234
+722;QUI-GON;OBI-WAN;You still have much to learn, my young apprentice.;EXT. PALACE OF THE JEDI - BALCONY - SUNSET;9;0;0;0;0;0;0;0;0;0;81
+723;ANAKIN;MACE WINDU;A ship a cup a speeder.;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;6;0;0;0;0;0;0;0;0;0;54
+724;YODA;ANAKIN;Good, good, young one. How feel you?;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;7;0;0;0;0;0;0;0;0;0;63
+725;ANAKIN;YODA;Cold, sir.;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;2;0;0;0;0;0;0;0;0;0;18
+726;YODA;ANAKIN;Afraid are you?;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;3;0;0;0;0;0;0;0;0;0;27
+727;ANAKIN;YODA;No, sir.;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;2;0;0;0;0;0;0;0;0;0;18
+728;YODA;ANAKIN;See through you, we can.;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;5;0;0;0;0;0;0;0;0;0;45
+729;MACE WINDU;ANAKIN;Be mindful of your feelings;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;5;0;0;0;0;0;0;0;0;0;45
+730;KI-ADI-MUNDI;ANAKIN;Your thoughts dwell on your mother.;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;6;0;0;0;0;0;0;0;0;0;54
+731;ANAKIN;KI-ADI-MUNDI;I miss her.;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;3;0;0;0;0;0;0;0;0;0;27
+732;YODA;ANAKIN;Afraid to lose her I think.;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;6;0;0;0;0;0;0;0;0;0;54
+733;ANAKIN;YODA;What's that got to do with anything?;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;7;0;0;0;0;0;0;0;0;0;63
+734;YODA;ANAKIN;Everything. Fear is the path to the dark side fear leads to anger anger leads to hate hate leads to suffering. I sense much fear in you.;INT. PALACE OF THE JEDI - COUNCIL CHAMBERS - SUNSET;27;0;0;0;0;0;0;0;0;0;243
+735;JAR JAR;AMIDALA;Yousa tinken yousa people ganna die?;INT. PALPATINES QUARTERS - SUNSET;6;0;0;0;0;0;0;0;0;0;54
+736;AMIDALA;JAR JAR;I don't know.;INT. PALPATINES QUARTERS - SUNSET;3;0;0;0;0;0;0;0;0;0;27
+737;JAR JAR;AMIDALA;Gungans ganna get pasted too, eh?;INT. PALPATINES QUARTERS - SUNSET;6;0;0;0;0;0;0;0;0;0;54
+738;AMIDALA;JAR JAR;I hope not.;INT. PALPATINES QUARTERS - SUNSET;3;0;0;0;0;0;0;0;0;0;27
+739;JAR JAR;AMIDALA;Gungans do die'n without a fight wesa warriors. Wesa gotta grand army. Dat why you no liken us, metinks.;INT. PALPATINES QUARTERS - SUNSET;19;0;0;0;0;0;0;0;0;0;171
+740;CAPT. PANAKA;AMIDALA;Your Highness, Senator Palpatine has been nominated to succeed Valorum as Supreme Chancellor.;INT. PALPATINES QUARTERS - SUNSET;13;0;0;0;0;0;0;0;0;0;117
+741;PALPATINE;AMIDALA;A surprise, to be sure, but a welcome one. I promise, Your Majesty, if I am elected, I will bring democracy back to the Republic. I will put an end to corruption.;INT. PALPATINES QUARTERS - SUNSET;32;0;0;0;0;0;0;0;0;0;288
+742;AMIDALA;CAPT. PANAKA;Who else can be nominated?;INT. PALPATINES QUARTERS - SUNSET;5;0;0;0;0;0;0;0;0;0;45
+743;CAPT. PANAKA;AMIDALA;Bail Antilles of Alderaan and Ainlee Teem of Malastare.;INT. PALPATINES QUARTERS - SUNSET;9;0;0;0;0;0;0;0;0;0;81
+744;PALPATINE;AMIDALA;I feel confident our situation will create a strong sympathy vote for us I will be Chancellor, I promise you.;INT. PALPATINES QUARTERS - SUNSET;20;0;0;0;0;0;0;0;0;0;180
+745;AMIDALA;PALPATINE;I fear by the time you have control of the bureaucrats, Senator, there will be nothing left of our cities, our people, our way of life;INT. PALPATINES QUARTERS - SUNSET;26;0;0;0;0;0;0;0;0;0;234
+746;PALPATINE;AMIDALA;I understand your concern, Your Majesty, unfortunately, the Federation has possession of our planet. The law is in their favor. ;INT. PALPATINES QUARTERS - SUNSET;20;0;0;0;0;0;0;0;0;0;180
+747;AMIDALA;PALPATINE;With the Senate in transition, there is nothing more I can do here Senator, this is your arena. I feel I must return to mine. I have decided to go back to Naboo.;INT. PALPATINES QUARTERS - SUNSET;33;0;0;0;0;0;0;0;0;0;297
+748;PALPATINE;AMIDALA;Go back! But, Your Majesty, be realistic! You would be in danger. They will force you to sign the treaty.;INT. PALPATINES QUARTERS - SUNSET;20;0;0;0;0;0;0;0;0;0;180
+749;AMIDALA;PALPATINE;I will sign no treaty, Senator. My fate will be no different from that of our people. Captain!;INT. PALPATINES QUARTERS - SUNSET;18;0;0;0;0;0;0;0;0;0;162
+750;CAPT. PANAKA;AMIDALA;Yes, Your Highness?;INT. PALPATINES QUARTERS - SUNSET;3;0;0;0;0;0;0;0;0;0;27
+751;AMIDALA;CAPT. PANAKA;Ready my ship!;INT. PALPATINES QUARTERS - SUNSET;3;0;0;0;0;0;0;0;0;0;27
+752;PALPATINE;AMIDALA;Please, Your Majesty, stay here where it's safe.;INT. PALPATINES QUARTERS - SUNSET;8;0;0;0;0;0;0;0;0;0;72
+753;AMIDALA;PALPATINE;No place is safe, if the Senate doesn't condemn this invasion. It is clear to me now that the Republic no longer functions as a democracy. If you win the election, Senator, I know you will do everything possible to stop the Federation. I pray you will bring sanity and compassion back to the Senate.;INT. PALPATINES QUARTERS - SUNSET;55;0;0;0;0;0;0;0;0;0;495
+754;KI-ADI-MUNDI;QUI-GON;The Force is strong with him.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;6;0;0;0;0;0;0;0;0;0;54
+755;QUI-GON;KI-ADI-MUNDI;He's to be trained, then.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;5;0;0;0;0;0;0;0;0;0;45
+756;MACE WINDU;QUI-GON;No. He will not be trained.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;6;0;0;0;0;0;0;0;0;0;54
+757;QUI-GON;MACE WINDU;No?!;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;1;0;0;0;0;0;0;0;0;0;9
+758;MACE WINDU;QUI-GON;He is too old. There is already too much anger in him.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;12;0;0;0;0;0;0;0;0;0;108
+759;QUI-GON;MACE WINDU;He is the chosen one you must see it.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;9;0;0;0;0;0;0;0;0;0;81
+760;YODA;QUI-GON;Clouded, this boy's future is. Masked by his youth.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;9;0;0;0;0;0;0;0;0;0;81
+761;QUI-GON;YODA;I will train him, then. I take Anakin as my Padawan learner.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;12;0;0;0;0;0;0;0;0;0;108
+762;YODA;QUI-GON;An apprentice, you have, Qui-Gon. Impossible, to take on a second.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;11;0;0;0;0;0;0;0;0;0;99
+763;MACE WINDU;QUI-GON;We forbid it.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;3;0;0;0;0;0;0;0;0;0;27
+764;QUI-GON;MACE WINDU;Obi-Wan is ready;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;3;0;0;0;0;0;0;0;0;0;27
+765;OBI-WAN;MACE WINDU;I am ready to face the trials.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;6;0;0;0;0;0;0;0;0;0;54
+766;YODA;OBI-WAN;Ready so early, are you? What know you of ready?;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;10;0;0;0;0;0;0;0;0;0;90
+767;QUI-GON;YODA;Headstrong and he has much to learn about the living Force, but he is capable. There is little more he will learn from me.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;24;0;0;0;0;0;0;0;0;0;216
+768;YODA;QUI-GON;Young Skywalker's fate will be decided later.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;7;0;0;0;0;0;0;0;0;0;63
+769;MACE WINDU;QUI-GON;Now is not the time for this. The senate is voting for a new supreme chancellor and Queen Amidala is returning home which puts pressure on the Federation and could widen the confrontation.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;33;0;0;0;0;0;0;0;0;0;297
+770;KI-ADI-MUNDI;MACE WINDU;And draw out the queen's attacker.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;6;0;0;0;0;0;0;0;0;0;54
+771;MACE WINDU;QUI-GON;Go with the queen to Naboo and discover the identity of this dark warrior. This is the clue we need to unravel the mystery of the Sith.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;27;0;0;0;0;0;0;0;0;0;243
+772;YODA;MACE WINDU;May the Force be with you.;INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT;6;0;0;0;0;0;0;0;0;0;54
+773;OBI-WAN;QUI-GON;It is not disrespect, Master, it is the truth.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;9;0;0;0;0;0;0;0;0;0;81
+774;QUI-GON;OBI-WAN;From your point of view;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;5;0;0;0;0;0;0;0;0;0;45
+775;OBI-WAN;QUI-GON;The boy is dangerous they all sense it. Why can't you?;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;11;0;0;0;0;0;0;0;0;0;99
+776;QUI-GON;OBI-WAN;His fate is uncertain, not dangerous. The Council will decide Anakin's future that should be enough for you. Now get on board!;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;22;0;0;0;0;0;0;0;0;0;198
+777;ARTOO;ANAKIN;beeps;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;1;0;0;0;0;0;0;0;0;0;9
+778;ANAKIN;QUI-GON;Master Qui-Gon, sir, I do not wish to be a problem.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;11;0;0;0;0;0;0;0;0;0;99
+779;QUI-GON;ANAKIN;You won't be, Annie I'm not allowed to train you, so I want you to watch me and be mindful always remember, your focus determines your reality. Stay close to me and you will be safe.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;36;0;0;0;0;0;0;0;0;0;324
+780;ANAKIN;QUI-GON;Master, sir I heard Yoda talking about midi-chlorians. I've been wondering. What are midi-chlorians?;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;14;0;0;0;0;0;0;0;0;0;126
+781;QUI-GON;ANAKIN;Midi-chlorians are a microscopic lifeform that reside within all living cells and communicates with the Force.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;16;0;0;0;0;0;0;0;0;0;144
+782;ANAKIN;QUI-GON;They live inside of me?;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;5;0;0;0;0;0;0;0;0;0;45
+783;QUI-GON;ANAKIN;In your cells. We are symbionts with the midi-chlorians.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;9;0;0;0;0;0;0;0;0;0;81
+784;ANAKIN;QUI-GON;Symbionts?;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;1;0;0;0;0;0;0;0;0;0;9
+785;QUI-GON;ANAKIN;Life forms living together for mutual advantage. Without the midi-chlorians, life could not exist, and we would have no knowledge of the Force. They continually speak to you, telling you the will of the Force. When you learn to quiet your mind, you will hear them speaking to you.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;49;0;0;0;0;0;0;0;0;0;441
+786;ANAKIN;QUI-GON;I don't understand.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+787;QUI-GON;ANAKIN;With time and training, Annie you will.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;7;0;0;0;0;0;0;0;0;0;63
+788;QUI-GON;AMIDALA;Your Highness, it is our pleasure to continue to serve and protect you.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;13;0;0;0;0;0;0;0;0;0;117
+789;AMIDALA;QUI-GON;I welcome your help. Senator Palpatine fears the Federation means to destroy me.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;13;0;0;0;0;0;0;0;0;0;117
+790;QUI-GON;AMIDALA;I promise you, I will not let that happen.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;9;0;0;0;0;0;0;0;0;0;81
+791;JAR JAR;ANAKIN;Wesa goen home!;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+792;ANAKIN;ARTOO;Come on, R2.;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+793;ARTOO;ANAKIN;beeps;EXT. CORUSCANT - SENATE LANDING PLATFORM - NIGHT;1;0;0;0;0;0;0;0;0;0;9
+794;DARTH SIDIOUS;NUTE;Viceroy, is the planet secure?;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;5;0;0;0;0;0;0;0;0;0;45
+795;NUTE;DARTH SIDIOUS;Yes, my Lord, we have taken over the last pockets of primitive life forms. We are in complete control of the planet now.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;23;0;0;0;0;0;0;0;0;0;207
+796;DARTH SIDIOUS;NUTE;Good. I will see to it that in the Senate, things stay as they are. I am sending Darth Maul to join you. He will deal with the Jedi.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;29;0;0;0;0;0;0;0;0;0;261
+797;NUTE;DARTH SIDIOUS;Yes, my Lord.;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;3;0;0;0;0;0;0;0;0;0;27
+798;RUNE;NUTE;A Sith lord here with us?!;INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT;6;0;0;0;0;0;0;0;0;0;54
+799;RIC OLIE;ANAKIN;The forward stabilizer.;INT. SPACE - NABOO SPACECRAFT COCKPIT;0;0;0;0;0;0;0;0;0;0;0
+800;ANAKIN;RIC OLIE;And those control the pitch?;INT. SPACE - NABOO SPACECRAFT COCKPIT;5;0;0;0;0;0;0;0;0;0;45
+801;RIC OLIE;ANAKIN;You catch on pretty quick.;INT. SPACE - NABOO SPACECRAFT COCKPIT;5;0;0;0;0;0;0;0;0;0;45
+802;CAPT. PANAKA;AMIDALA;The moment we land the Federation will arrest you, and force you to sign the treaty.;INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS;16;0;0;0;0;0;0;0;0;0;144
+803;QUI-GON;AMIDALA;I agree I'm not sure what you hope to accomplish by this.;INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS;12;0;0;0;0;0;0;0;0;0;108
+804;AMIDALA;QUI-GON;I'm going to take back what's ours.;INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS;7;0;0;0;0;0;0;0;0;0;63
+805;CAPT. PANAKA;AMIDALA;There are only twelve of us, Your Highness we have no army.;INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS;12;0;0;0;0;0;0;0;0;0;108
+806;QUI-GON;AMIDALA;I cannot fight a war for you, Your Highness, only protect you.;INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS;12;0;0;0;0;0;0;0;0;0;108
+807;AMIDALA;JAR JAR;Jar Jar Binks!;INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS;3;0;0;0;0;0;0;0;0;0;27
+808;JAR JAR;AMIDALA;Mesa, Your Highness?;INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS;3;0;0;0;0;0;0;0;0;0;27
+809;AMIDALA;JAR JAR;Yes. I need your help.;INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS;5;0;0;0;0;0;0;0;0;0;45
+810;RIC OLIE;CAPT. PANAKA;I have one battleship on my scope.;INT. NABOO CRUISER COCKPIT - DAY;7;0;0;0;0;0;0;0;0;0;63
+811;OBI-WAN;CAPT. PANAKA;A droid control ship.;INT. NABOO CRUISER COCKPIT - DAY;4;0;0;0;0;0;0;0;0;0;36
+812;CAPT. PANAKA;OBI-WAN;They've probably spotted us.;INT. NABOO CRUISER COCKPIT - DAY;4;0;0;0;0;0;0;0;0;0;36
+813;OBI-WAN;CAPT. PANAKA;We haven't much time.;INT. NABOO CRUISER COCKPIT - DAY;4;0;0;0;0;0;0;0;0;0;36
+814;OBI-WAN;QUI-GON;Jar Jar is on his way to the Gungan city, Master.;EXT. NABOO SWAMP - DAY;11;0;0;0;0;0;0;0;0;0;99
+815;QUI-GON;OBI-WAN;Good.;EXT. NABOO SWAMP - DAY;1;0;0;0;0;0;0;0;0;0;9
+816;OBI-WAN;QUI-GON;Do you think the Queen's idea will work?;EXT. NABOO SWAMP - DAY;8;0;0;0;0;0;0;0;0;0;72
+817;QUI-GON;OBI-WAN;The Gungans will not easily be swayed, and we cannot use our power to help her.;EXT. NABOO SWAMP - DAY;16;0;0;0;0;0;0;0;0;0;144
+818;OBI-WAN;QUI-GON;I'm I'm sorry for my behavior, Master. It is not my place to disagree with you about the boy. I am grateful you think I am ready for the trials.;EXT. NABOO SWAMP - DAY;30;0;0;0;0;0;0;0;0;0;270
+819;QUI-GON;OBI-WAN;You have been a good apprentice. You are much wiser than I am, Obi-Wan. I foresee you will become a great Jedi Knight.;EXT. NABOO SWAMP - DAY;22;0;0;0;0;0;0;0;0;0;198
+820;JAR JAR;QUI-GON;Dare-sa nobody dare. All gone. Some kinda fight, I tink. Sorry, no Gungas no Gungas.;EXT. NABOO SWAMP LAKE - DAY;15;0;0;0;0;0;0;0;0;0;135
+821;OBI-WAN;QUI-GON;Do you think they have been taken to camps?;EXT. NABOO SWAMP LAKE - DAY;9;0;0;0;0;0;0;0;0;0;81
+822;CAPT. PANAKA;QUI-GON;More likely they were wiped out.;EXT. NABOO SWAMP LAKE - DAY;6;0;0;0;0;0;0;0;0;0;54
+823;JAR JAR;QUI-GON;No mesa no tink so. Gungan hiden. When in trouble, go to sacred place. Mackineeks no find them dare.;EXT. NABOO SWAMP LAKE - DAY;19;0;0;0;0;0;0;0;0;0;171
+824;QUI-GON;JAR JAR;Do you know where they are?;EXT. NABOO SWAMP LAKE - DAY;6;0;0;0;0;0;0;0;0;0;54
+825;JAR JAR;BOSS NASS;Heyo dadee Big Boss Nass, Your Honor.;EXT. NABOO SACRED TEMPLE RUINS - DAY;7;0;0;0;0;0;0;0;0;0;63
+826;BOSS NASS;JAR JAR;Jar Jar. Who's da uss-en others?;EXT. NABOO SACRED TEMPLE RUINS - DAY;6;0;0;0;0;0;0;0;0;0;54
+827;AMIDALA;BOSS NASS;I am Queen Amidala of the Naboo I come before you in peace.;EXT. NABOO SACRED TEMPLE RUINS - DAY;13;0;0;0;0;0;0;0;0;0;117
+828;BOSS NASS;AMIDALA;Naboo biggen. Yousa bringen da Mackineeks Dya busten uss-enomm. Yousa all bombad. Yousa all die'n, mesa tink.;EXT. NABOO SACRED TEMPLE RUINS - DAY;17;0;0;0;0;0;0;0;0;0;153
+829;AMIDALA;BOSS NASS;We have searched you out because we wish to form an alliance.;EXT. NABOO SACRED TEMPLE RUINS - DAY;12;0;0;0;0;0;0;0;0;0;108
+830;PADME;BOSS NASS;Your Honor;EXT. NABOO SACRED TEMPLE RUINS - DAY;2;0;0;0;0;0;0;0;0;0;18
+831;BOSS NASS;PADME;Whosa dis?;EXT. NABOO SACRED TEMPLE RUINS - DAY;2;0;0;0;0;0;0;0;0;0;18
+832;PADME;BOSS NASS;I am Queen Amidala. This is my decoy my protection my loyal bodyguard. I am sorry for my deception, but under the circumstances it has become necessary to protect myself. Although we do not always agree, Your Honor, our two great societies have always lived in peace until now. The Trade Federation has destroyed all that we have worked so hard to build. You are in hiding, my people are in camps. If we do not act quickly, all will be lost forever I ask you to help us no, I beg you to help us. We are your humble servants our fate is in your hands.;EXT. NABOO SACRED TEMPLE RUINS - DAY;107;0;0;0;0;0;0;0;0;0;963
+833;BOSS NASS;PADME;Yousa no tinken yousa greater den da Gungans Mesa like dis. Maybe wesa bein friends.;EXT. NABOO SACRED TEMPLE RUINS - DAY;15;0;0;0;0;0;0;0;0;0;135
+834;NUTE;DARTH SIDIOUS;we've sent out patrols. We've already located their starship in the swamp It won't be long, My Lord.;INT. NABOO PALACE - THRONE ROOM - DAY;18;0;0;0;0;0;0;0;0;0;162
+835;DARTH SIDIOUS;NUTE;This is an unexpected move for her. It's too aggressive Lord Maul, be mindful.;INT. NABOO PALACE - THRONE ROOM - DAY;14;0;0;0;0;0;0;0;0;0;126
+836;DARTH SIDIOUS;DARTH MAUL;Be patient Let them make the first move.;INT. NABOO PALACE - THRONE ROOM - DAY;8;0;0;0;0;0;0;0;0;0;72
+837;DARTH MAUL;DARTH SIDIOUS;Yes, my Master.;INT. NABOO PALACE - THRONE ROOM - DAY;3;0;0;0;0;0;0;0;0;0;27
+838;GUNGAN LOOKOUT;ANAKIN;Daza comen!;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;2;0;0;0;0;0;0;0;0;0;18
+839;ANAKIN;PADME;All right. They're here!;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;4;0;0;0;0;0;0;0;0;0;36
+840;BOSS NASS;JAR JAR;Yousa doen grand. Jar Jar bringen da Naboo together.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;9;0;0;0;0;0;0;0;0;0;81
+841;JAR JAR;BOSS NASS;Oh, no, no, no;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;4;0;0;0;0;0;0;0;0;0;36
+842;BOSS NASS;JAR JAR;So, wesa maken yousa Bombad General.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;6;0;0;0;0;0;0;0;0;0;54
+843;JAR JAR;BOSS NASS;General?! Oh, no;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;3;0;0;0;0;0;0;0;0;0;27
+844;PADME;CAPT. PANAKA;What is the situation?;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;4;0;0;0;0;0;0;0;0;0;36
+845;CAPT. PANAKA;PADME;Almost everyone's in camps. A few hundred police and guards have formed an underground movement. I brought as many of the leaders as I could. The Federation Army's also much larger than we thought, and much stronger. Your Highness, this is a battle I do not think we can win.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;50;0;0;0;0;0;0;0;0;0;450
+846;PADME;CAPT. PANAKA;The battle is a diversion. The Gungans must draw the Droid Army away from the cities. We can enter the city using the secret passages on the waterfall side. Once we get to the main entrance, Captain Panaka will create a diversion, so that we can enter the palace and capture the Viceroy. Without the Viceroy, they will be lost and confused. What do you think, Master Jedi?;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;68;0;0;0;0;0;0;0;0;0;612
+847;QUI-GON;PADME;The Viceroy will be well guarded.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;6;0;0;0;0;0;0;0;0;0;54
+848;CAPT. PANAKA;PADME;The difficulty's getting into the throne room. Once we're inside, we shouldn't have a problem.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;15;0;0;0;0;0;0;0;0;0;135
+849;QUI-GON;BOSS NASS;There is a possibility with this diversion many Gungans will be killed.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;12;0;0;0;0;0;0;0;0;0;108
+850;BOSS NASS;QUI-GON;Wesa ready to do are-sa part.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;6;0;0;0;0;0;0;0;0;0;54
+851;PADME;QUI-GON;We have a plan which should immobilize the Droid Army. We will send what pilots we have to knock out the Droid control ship which is orbiting the planet. If we can get past their ray shields, we can sever communication and their droids will be helpless.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;46;0;0;0;0;0;0;0;0;0;414
+852;QUI-GON;PADME;A well-conceived plan. However, there's great risk. The weapons on your fighters may not penetrate the shields on the control ship.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;21;0;0;0;0;0;0;0;0;0;189
+853;OBI-WAN;PADME;And there's an even bigger danger. If the Viceroy escapes, Your Highness, he will return with another droid army.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;19;0;0;0;0;0;0;0;0;0;171
+854;PADME;OBI-WAN;That is why we must not fail to get to the Viceroy. Everything depends on it.;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;16;0;0;0;0;0;0;0;0;0;144
+855;ARTOO;PADME;beeps;EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY;1;0;0;0;0;0;0;0;0;0;9
+856;DARTH SIDIOUS;NUTE;she is more foolish than I thought.;INT. THEED - PALACE - THRONE ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+857;NUTE;DARTH SIDIOUS;We are sending all available troops to meet this army of hers assembling near the swamp. It appears to be made up of primitives. We do not expect much resistance.;INT. THEED - PALACE - THRONE ROOM - DAY;30;0;0;0;0;0;0;0;0;0;270
+858;NUTE;DARTH SIDIOUS;I have your approval to proceed then, My Lord.;INT. THEED - PALACE - THRONE ROOM - DAY;9;0;0;0;0;0;0;0;0;0;81
+859;DARTH SIDIOUS;NUTE;Proceed. Wipe them put all of them.;INT. THEED - PALACE - THRONE ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+860;GENERAL CEEL;SOLDIERS;Halt! Energize the shields.;INT. NABOO SWAMP LAKE - DAY;4;0;0;0;0;0;0;0;0;0;36
+861;QUI-GON;ANAKIN;Once we get inside, Annie, you find a safe place to hide and stay there.;EXT. THEED - CENTRAL PLAZA - DAY;14;0;0;0;0;0;0;0;0;0;126
+862;ANAKIN;QUI-GON;Sure.;EXT. THEED - CENTRAL PLAZA - DAY;1;0;0;0;0;0;0;0;0;0;9
+863;QUI-GON;ANAKIN;And stay there!;EXT. THEED - CENTRAL PLAZA - DAY;3;0;0;0;0;0;0;0;0;0;27
+864;NUTE;RUNE;I thought the battle was going to take place far from here this is too close!;INT. THEED - PALACE THRONE ROOM - DAY;16;0;0;0;0;0;0;0;0;0;144
+865;NUTE;OOM-9;Activate the droids;INT. THEED - PALACE THRONE ROOM - DAY;3;0;0;0;0;0;0;0;0;0;27
+866;OOM-9;NUTE;Yes, sir.;INT. THEED - PALACE THRONE ROOM - DAY;2;0;0;0;0;0;0;0;0;0;18
+867;PADME;PILOTS;Get to your ships!;INT. THEED - CENTRAL HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+868;QUI-GON;ANAKIN;Ani, find cover.;INT. THEED - CENTRAL HANGER - DAY;3;0;0;0;0;0;0;0;0;0;27
+869;ARTOO;ANAKIN;whistles;INT. THEED - CENTRAL HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+870;ANAKIN;ARTOO;Hey! Wait for me.;INT. THEED - CENTRAL HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+871;ARTOO;ANAKIN;whistles;INT. THEED - CENTRAL HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+872;PADME;CAPT. PANAKA;My guess is the Viceroy is in the throne room.;INT. THEED - CENTRAL HANGER - DAY;10;0;0;0;0;0;0;0;0;0;90
+873;CAPT. PANAKA;SOLDIERS;Red group! Blue group! Everybody, this way!;INT. THEED - CENTRAL HANGER - DAY;7;0;0;0;0;0;0;0;0;0;63
+874;ANAKIN;QUI-GON;Hey, wait for me!;INT. THEED - CENTRAL HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+875;QUI-GON;ANAKIN;No, Annie, you stay there. Stay right where you are.;INT. THEED - CENTRAL HANGER - DAY;10;0;0;0;0;0;0;0;0;0;90
+876;ANAKIN;QUI-GON;But, I;INT. THEED - CENTRAL HANGER - DAY;2;0;0;0;0;0;0;0;0;0;18
+877;QUI-GON;ANAKIN;Stay in that cockpit.;INT. THEED - CENTRAL HANGER - DAY;4;0;0;0;0;0;0;0;0;0;36
+878;QUI-GON;AMIDALA;We'll handle this.;INT. THEED - CENTRAL HANGER - DAY;3;0;0;0;0;0;0;0;0;0;27
+879;ARTOO;ANAKIN;beeps;INT. THEED - CENTRAL HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+880;ANAKIN;ARTOO;We gotta do something, ARTOO.;INT. THEED - CENTRAL HANGER - DAY;5;0;0;0;0;0;0;0;0;0;45
+881;ARTOO;ANAKIN;beeps;INT. THEED - CENTRAL HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+882;ANAKIN;ARTOO;Where's the trigger? Oops, wrong one Maybe this one;INT. THEED - CENTRAL HANGER - DAY;9;0;0;0;0;0;0;0;0;0;81
+883;ARTOO;ANAKIN;beeps;INT. THEED - CENTRAL HANGER - DAY;1;0;0;0;0;0;0;0;0;0;9
+884;ANAKIN;ARTOO;It's on automatic pilot. Try to override it.;INT. THEED - CENTRAL HANGER - DAY;8;0;0;0;0;0;0;0;0;0;72
+885;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+886;ANAKIN;ARTOO;Look, there they are ! There they are! That's where the autopilot is taking us.;INT. NABOO STARFIGHTER - COCKPIT - SPACE;15;0;0;0;0;0;0;0;0;0;135
+887;PADME;CAPT. PANAKA;We don't have time for this, Captain.;INT. THEED - PALACE - HALLWAY - DAY;7;0;0;0;0;0;0;0;0;0;63
+888;CAPT. PANAKA;PADME;GO! Ascension guns!;INT. THEED - PALACE - HALLWAY - DAY;3;0;0;0;0;0;0;0;0;0;27
+889;ANAKIN;ARTOO;Whoo, boy! This is tense!;INT. NABOO STARFIGHTER - COCKPIT - SPACE;5;0;0;0;0;0;0;0;0;0;45
+890;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+891;ANAKIN;ARTOO;Oops! ARTOO, get us off Autopilot! It's gonna get us both killed.;INT. NABOO STARFIGHTER - COCKPIT - SPACE;13;0;0;0;0;0;0;0;0;0;117
+892;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+893;ANAKIN;ARTOO;Yes I've got control. You did it, ARTOO!;INT. NABOO STARFIGHTER - COCKPIT - SPACE;8;0;0;0;0;0;0;0;0;0;72
+894;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+895;ANAKIN;ARTOO;Go back!?! Qui-Gon told me to stay in this cockpit and that's what I'm gonna do. Now c'mon!;INT. NABOO STARFIGHTER - COCKPIT - SPACE;18;0;0;0;0;0;0;0;0;0;162
+896;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+897;ANAKIN;ARTOO;I'll try spinning, that's a good trick.;INT. NABOO STARFIGHTER - COCKPIT - SPACE;7;0;0;0;0;0;0;0;0;0;63
+898;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+899;ANAKIN;ARTOO;I know we're in trouble! Hang on! The way out of this mess is the way we got into it.;INT. NABOO STARFIGHTER - COCKPIT - SPACE;20;0;0;0;0;0;0;0;0;0;180
+900;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+901;ANAKIN;ARTOO;Which one? This one?;INT. NABOO STARFIGHTER - COCKPIT - SPACE;4;0;0;0;0;0;0;0;0;0;36
+902;PADME;CAPT. PANAKA;Throw down your weapons. They win this round.;INT. THEED - PALACE - HALLWAY TO THRONE ROOM;8;0;0;0;0;0;0;0;0;0;72
+903;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+904;ANAKIN;ARTOO;We're hit!;INT. NABOO STARFIGHTER - COCKPIT - SPACE;2;0;0;0;0;0;0;0;0;0;18
+905;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+906;ANAKIN;ARTOO;I'm trying to stop! I'm trying to stop! Whoa!;INT. NABOO STARFIGHTER - COCKPIT - SPACE;9;0;0;0;0;0;0;0;0;0;81
+907;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+908;ANAKIN;ARTOO;Everything's overheated. All the lights are red.;INT. NABOO STARFIGHTER - COCKPIT - SPACE;7;0;0;0;0;0;0;0;0;0;63
+909;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - SPACE;1;0;0;0;0;0;0;0;0;0;9
+910;JAR JAR;GENERAL CEEL;Dissa bad, berry bombad.;EXT. NABOO GRASS PLAINS - DAY;4;0;0;0;0;0;0;0;0;0;36
+911;GENERAL CEEL;JAR JAR;Mesa hopen dissa working for da Queen.;EXT. NABOO GRASS PLAINS - DAY;7;0;0;0;0;0;0;0;0;0;63
+912;NUTE;PADME;Your little insurrection is at an end, Your Highness. Time for you to sign the treaty and end this pointless debate in the Senate.;INT. THEED - PALACE THRONE ROOM - DAY;24;0;0;0;0;0;0;0;0;0;216
+913;SABE;NUTE;I will not be signing any treaty, Viceroy, because you've lost!;INT. THEED - PALACE THRONE ROOM - DAY;11;0;0;0;0;0;0;0;0;0;99
+914;NUTE;DROIDS;After her! This one is a decoy!;INT. THEED - PALACE THRONE ROOM - DAY;7;0;0;0;0;0;0;0;0;0;63
+915;CAPT. PANAKA;SOLDIERS;Jam the doors.;INT. THEED - PALACE THRONE ROOM - DAY;3;0;0;0;0;0;0;0;0;0;27
+916;PADME;NUTE;Now, Viceroy, this is the end of your occupation here.;INT. THEED - PALACE THRONE ROOM - DAY;10;0;0;0;0;0;0;0;0;0;90
+917;QUI-GON;OBI-WAN;It is too late It's;INT. THEED - POWER GENERATOR - MELTING PIT;5;0;0;0;0;0;0;0;0;0;45
+918;OBI-WAN;QUI-GON;No!;INT. THEED - POWER GENERATOR - MELTING PIT;1;0;0;0;0;0;0;0;0;0;9
+919;QUI-GON;OBI-WAN;Obi-Wan promise promise me you'll train the boy;INT. THEED - POWER GENERATOR - MELTING PIT;8;0;0;0;0;0;0;0;0;0;72
+920;OBI-WAN;QUI-GON;Yes, Master;INT. THEED - POWER GENERATOR - MELTING PIT;2;0;0;0;0;0;0;0;0;0;18
+921;QUI-GON;OBI-WAN;He is the chosen one he will bring balance train him!;INT. THEED - POWER GENERATOR - MELTING PIT;11;0;0;0;0;0;0;0;0;0;99
+922;ANAKIN;ARTOO;Yes! We have power. Shields up.;INT. NABOO STARFIGHTER - COCKPIT - FEDERATION HANGER;6;0;0;0;0;0;0;0;0;0;54
+923;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - FEDERATION HANGER;1;0;0;0;0;0;0;0;0;0;9
+924;ANAKIN;ARTOO;Let's get outta here.;INT. NABOO STARFIGHTER - COCKPIT - FEDERATION HANGER;4;0;0;0;0;0;0;0;0;0;36
+925;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - FEDERATION HANGER;1;0;0;0;0;0;0;0;0;0;9
+926;ANAKIN;ARTOO;Now, this is Podracing.;INT. NABOO STARFIGHTER - COCKPIT - FEDERATION HANGER;4;0;0;0;0;0;0;0;0;0;36
+927;ARTOO;ANAKIN;beeps;INT. NABOO STARFIGHTER - COCKPIT - FEDERATION HANGER;1;0;0;0;0;0;0;0;0;0;9
+928;TEY HOW;DOFINE;Sir, we're losing power There is some problem with the main reactor;INT. FEDERATION BATTLESHIP - BRIDGE;12;0;0;0;0;0;0;0;0;0;108
+929;DOFINE;TEY HOW;Impossible! Nothing can get through our shield.;INT. FEDERATION BATTLESHIP - BRIDGE;7;0;0;0;0;0;0;0;0;0;63
+930;BRAVO TWO;RIC OLIE;What's that? It's blowing up from the inside.;INT. NABOO FIGHTER - COCKPIT - SPACE;8;0;0;0;0;0;0;0;0;0;72
+931;RIC OLIE;BRAVO TWO;I don't know, we didn't hit it.;INT. NABOO FIGHTER - COCKPIT - SPACE;7;0;0;0;0;0;0;0;0;0;63
+932;BRAVO THREE;RIC OLIE;Look! One of ours! Outta the main hold!;INT. NABOO FIGHTER - COCKPIT - SPACE;8;0;0;0;0;0;0;0;0;0;72
+933;JAR JAR;GENERAL CEEL;Was'n they doing?;EXT. NABOO GRASS PLAINS - DAY;3;0;0;0;0;0;0;0;0;0;27
+934;GENERAL CEEL;JAR JAR;The control ship has been destroyed. Look!;EXT. NABOO GRASS PLAINS - DAY;7;0;0;0;0;0;0;0;0;0;63
+935;JAR JAR;GENERAL CEEL;They all broke-ed.;EXT. NABOO GRASS PLAINS - DAY;3;0;0;0;0;0;0;0;0;0;27
+936;PADME;NUTE;Now, Viceroy, you are going to have to go back to the Senate and explain all this.;INT. MAIN HANGER - COURTYARD - DAY;17;0;0;0;0;0;0;0;0;0;153
+937;CAPT. PANAKA;NUTE;I think you can kiss your Trade franchise goodbye.;INT. MAIN HANGER - COURTYARD - DAY;9;0;0;0;0;0;0;0;0;0;81
+938;PALPATINE;OBI-WAN;We are indebted to you for your bravery, Obi-Wan Kenobi.;INT. MAIN HANGER - COURTYARD - DAY;10;0;0;0;0;0;0;0;0;0;90
+939;PALPATINE;ANAKIN;And you, young Skywalker. We will watch your career with great interest.;INT. MAIN HANGER - COURTYARD - DAY;12;0;0;0;0;0;0;0;0;0;108
+940;AMIDALA;PALPATINE;Congratulations on your election, Chancellor. It is so good to see you again.;INT. MAIN HANGER - COURTYARD - DAY;13;0;0;0;0;0;0;0;0;0;117
+941;PALPATINE;AMIDALA;It's good to be home. Your boldness has saved our people, Your Majesty. It is you who should be congratulated. Together we shall bring peace and prosperity to the Republic.;INT. MAIN HANGER - COURTYARD - DAY;30;0;0;0;0;0;0;0;0;0;270
+942;YODA;OBI-WAN;Confer on you, the level of Jedi Knight the Council. does. But agree on you taking this boy as your Padawan learner, I do not.;INT. TURRET ROOM - NABOO PALACE - LATE DAY;25;0;0;0;0;0;0;0;0;0;225
+943;OBI-WAN;YODA;Qui-Gon believed in him. I believe in Qui-Gon.;INT. TURRET ROOM - NABOO PALACE - LATE DAY;8;0;0;0;0;0;0;0;0;0;72
+944;YODA;OBI-WAN;The Chosen One the boy may be. nevertheless, grave danger I fear in his training.;INT. TURRET ROOM - NABOO PALACE - LATE DAY;15;0;0;0;0;0;0;0;0;0;135
+945;OBI-WAN;YODA;Master Yoda, I gave Qui-Gon my word. I will train Anakin. Without the approval of the Council if I must.;INT. TURRET ROOM - NABOO PALACE - LATE DAY;20;0;0;0;0;0;0;0;0;0;180
+946;YODA;OBI-WAN;Qui-Gon's defiance I sense in you. Need that, you do not. Agree, the council does. Your apprentice, young Skywalker will be.;INT. TURRET ROOM - NABOO PALACE - LATE DAY;21;0;0;0;0;0;0;0;0;0;189
+947;ANAKIN;OBI-WAN;What will happen to me now?;EXT. THEED - CENTRAL PLAZA - FUNERAL TEMPLE STEPS - SUNSET;6;0;0;0;0;0;0;0;0;0;54
+948;OBI-WAN;ANAKIN;I am your Master now. You will become a Jedi, I promise.;EXT. THEED - CENTRAL PLAZA - FUNERAL TEMPLE STEPS - SUNSET;12;0;0;0;0;0;0;0;0;0;108
+949;MACE WINDU;YODA;There is no doubt. The mysterious warrior was a Sith.;EXT. THEED - CENTRAL PLAZA - FUNERAL TEMPLE STEPS - SUNSET;10;0;0;0;0;0;0;0;0;0;90
+950;YODA;MACE WINDU;Always two there are no more no less. A master and an apprentice.;EXT. THEED - CENTRAL PLAZA - FUNERAL TEMPLE STEPS - SUNSET;13;0;0;0;0;0;0;0;0;0;117
+951;MACE WINDU;YODA;But which one was destroyed, the master or the apprentice?;EXT. THEED - CENTRAL PLAZA - FUNERAL TEMPLE STEPS - SUNSET;10;0;0;0;0;0;0;0;0;0;90
