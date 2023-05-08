@@ -3,7 +3,7 @@ library(tm)
 library(tidytext)
 library(stringr)
 
-dialogue <- read.table("data/epX_dialogue.csv", header = TRUE, sep = ";", quote = "")
+dialogue <- read.table("data/ep4_dialogue.csv", header = TRUE, sep = ";", quote = "")
 
 characters <- unique(dialogue$from)
 
@@ -25,4 +25,4 @@ characters_text$text <- lapply(characters_text[,"text"],
 
 characters_text <- apply(characters_text, 2, as.character)
 
-write.csv(characters_text, "data/epX_cleaned.csv", row.names = FALSE)
+write.csv(characters_text, "data/ep4_cleaned.csv", row.names = FALSE)
